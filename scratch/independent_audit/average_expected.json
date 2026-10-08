@@ -1,0 +1,198 @@
+{
+  "instructions_sha256": "29fb8ce395468f38f6e8a61fe3adcfacdb46986ead1be93a857709c15f327f0d",
+  "source_files": 17,
+  "source_hashes_unchanged": true,
+  "source_calendars_complete": true,
+  "existing_output_metric_checks": 418,
+  "existing_output_discrepancies": [],
+  "members": [
+    {
+      "name": "Hannah Ladele",
+      "row": 7,
+      "tithe_rank": 18,
+      "offering_rank": 17,
+      "average": 17.5,
+      "overall_rank": 18
+    },
+    {
+      "name": "Tomilola Ezekiel",
+      "row": 8,
+      "tithe_rank": 11,
+      "offering_rank": 19,
+      "average": 15.0,
+      "overall_rank": 15
+    },
+    {
+      "name": "Greatborn Uche",
+      "row": 9,
+      "tithe_rank": 1,
+      "offering_rank": 8,
+      "average": 4.5,
+      "overall_rank": 1
+    },
+    {
+      "name": "Naomi Asake",
+      "row": 10,
+      "tithe_rank": 7,
+      "offering_rank": 3,
+      "average": 5.0,
+      "overall_rank": 3
+    },
+    {
+      "name": "David Adekunle",
+      "row": 11,
+      "tithe_rank": 9,
+      "offering_rank": 6,
+      "average": 7.5,
+      "overall_rank": 8
+    },
+    {
+      "name": "Ayomide Adeola",
+      "row": 12,
+      "tithe_rank": 15,
+      "offering_rank": 18,
+      "average": 16.5,
+      "overall_rank": 17
+    },
+    {
+      "name": "Alaye Zainab",
+      "row": 13,
+      "tithe_rank": 16,
+      "offering_rank": 10,
+      "average": 13.0,
+      "overall_rank": 14
+    },
+    {
+      "name": "Martins Gold",
+      "row": 14,
+      "tithe_rank": 8,
+      "offering_rank": 1,
+      "average": 4.5,
+      "overall_rank": 1
+    },
+    {
+      "name": "Teniola Adigun",
+      "row": 15,
+      "tithe_rank": 14,
+      "offering_rank": 5,
+      "average": 9.5,
+      "overall_rank": 11
+    },
+    {
+      "name": "Ojelade Tosin",
+      "row": 16,
+      "tithe_rank": 12,
+      "offering_rank": 12,
+      "average": 12.0,
+      "overall_rank": 13
+    },
+    {
+      "name": "Samuel Ajanlekoko",
+      "row": 17,
+      "tithe_rank": 19,
+      "offering_rank": 16,
+      "average": 17.5,
+      "overall_rank": 18
+    },
+    {
+      "name": "Obafemi Dolapo",
+      "row": 18,
+      "tithe_rank": 5,
+      "offering_rank": 7,
+      "average": 6.0,
+      "overall_rank": 5
+    },
+    {
+      "name": "Aigbe Ajagbe",
+      "row": 19,
+      "tithe_rank": 10,
+      "offering_rank": 13,
+      "average": 11.5,
+      "overall_rank": 12
+    },
+    {
+      "name": "Olorunfemi Isaac",
+      "row": 20,
+      "tithe_rank": 6,
+      "offering_rank": 4,
+      "average": 5.0,
+      "overall_rank": 3
+    },
+    {
+      "name": "Solomon Joseph",
+      "row": 21,
+      "tithe_rank": 17,
+      "offering_rank": 15,
+      "average": 16.0,
+      "overall_rank": 16
+    },
+    {
+      "name": "Adekoya Olanrewaju",
+      "row": 22,
+      "tithe_rank": 2,
+      "offering_rank": 14,
+      "average": 8.0,
+      "overall_rank": 10
+    },
+    {
+      "name": "Mafeni Yakubu",
+      "row": 23,
+      "tithe_rank": 3,
+      "offering_rank": 11,
+      "average": 7.0,
+      "overall_rank": 7
+    },
+    {
+      "name": "Lawal Lawal",
+      "row": 24,
+      "tithe_rank": 4,
+      "offering_rank": 9,
+      "average": 6.5,
+      "overall_rank": 6
+    },
+    {
+      "name": "Babajide Oyadara",
+      "row": 25,
+      "tithe_rank": 13,
+      "offering_rank": 2,
+      "average": 7.5,
+      "overall_rank": 8
+    }
+  ],
+  "ties": [
+    {
+      "average": 4.5,
+      "overall_rank": 1,
+      "members": [
+        "Greatborn Uche",
+        "Martins Gold"
+      ]
+    },
+    {
+      "average": 5.0,
+      "overall_rank": 3,
+      "members": [
+        "Naomi Asake",
+        "Olorunfemi Isaac"
+      ]
+    },
+    {
+      "average": 7.5,
+      "overall_rank": 8,
+      "members": [
+        "David Adekunle",
+        "Babajide Oyadara"
+      ]
+    },
+    {
+      "average": 17.5,
+      "overall_rank": 18,
+      "members": [
+        "Hannah Ladele",
+        "Samuel Ajanlekoko"
+      ]
+    }
+  ],
+  "rank_rule": "Average=(tithe consistency rank+offering consistency rank)/2; Overall Rank=1+number of members with a strictly lower average (ascending competition/RANK.EQ)",
+  "baseline_path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\scratch\\independent_audit\\rerun_before_snapshot.json"
+}

@@ -1,0 +1,39 @@
+{
+  "checks": 552,
+  "tieMode": "shared",
+  "filesCreated": [
+    "January_Summary.xlsx",
+    "February_Summary.xlsx",
+    "March_Summary.xlsx",
+    "April_Summary.xlsx",
+    "Final_Summary.xlsx"
+  ],
+  "sourceFingerprintsUnchanged": true,
+  "verification": [
+    {
+      "file": "January_Summary.xlsx",
+      "formulaErrors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+      "inspected": "{\"kind\":\"table\",\"sheet\":\"Summary\",\"address\":\"A6:H10\",\"rows\":5,\"cols\":8,\"values\":[[\"First Name\",\"Last Name\",\"Total Tithe Paid\",\"Total Offering Paid\",\"Number of Tithe Payments\",\"Number of Offering Payments\",null,null],[\"Hannah\",\"Ladele\",1000,55,1,4,null,null],[\"Tomilola\",\"Ezekiel\",500,40,1,4,null,null],[\"Greatborn\",\"Uche\",700,40,1,3,null,null],[\"Naomi\",\"Asake\",300,85,1,4,null,null]]}"
+    },
+    {
+      "file": "February_Summary.xlsx",
+      "formulaErrors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+      "inspected": "{\"kind\":\"table\",\"sheet\":\"Summary\",\"address\":\"A6:H10\",\"rows\":5,\"cols\":8,\"values\":[[\"First Name\",\"Last Name\",\"Total Tithe Paid\",\"Total Offering Paid\",\"Number of Tithe Payments\",\"Number of Offering Payments\",null,null],[\"Hannah\",\"Ladele\",500,30,1,3,null,null],[\"Tomilola\",\"Ezekiel\",1000,30,1,2,null,null],[\"Greatborn\",\"Uche\",400,55,1,3,null,null],[\"Naomi\",\"Asake\",600,110,1,4,null,null]]}"
+    },
+    {
+      "file": "March_Summary.xlsx",
+      "formulaErrors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+      "inspected": "{\"kind\":\"table\",\"sheet\":\"Summary\",\"address\":\"A6:H10\",\"rows\":5,\"cols\":8,\"values\":[[\"First Name\",\"Last Name\",\"Total Tithe Paid\",\"Total Offering Paid\",\"Number of Tithe Payments\",\"Number of Offering Payments\",null,null],[\"Hannah\",\"Ladele\",0,80,0,3,null,null],[\"Tomilola\",\"Ezekiel\",0,70,0,4,null,null],[\"Greatborn\",\"Uche\",1000,160,1,4,null,null],[\"Naomi\",\"Asake\",500,150,1,4,null,null]]}"
+    },
+    {
+      "file": "April_Summary.xlsx",
+      "formulaErrors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+      "inspected": "{\"kind\":\"table\",\"sheet\":\"Summary\",\"address\":\"A6:H10\",\"rows\":5,\"cols\":8,\"values\":[[\"First Name\",\"Last Name\",\"Total Tithe Paid\",\"Total Offering Paid\",\"Number of Tithe Payments\",\"Number of Offering Payments\",null,null],[\"Hannah\",\"Ladele\",0,70,0,3,null,null],[\"Tomilola\",\"Ezekiel\",500,70,1,3,null,null],[\"Greatborn\",\"Uche\",1000,80,1,4,null,null],[\"Naomi\",\"Asake\",100,150,1,3,null,null]]}"
+    },
+    {
+      "file": "Final_Summary.xlsx",
+      "formulaErrors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+      "inspected": "{\"kind\":\"table\",\"sheet\":\"Summary\",\"address\":\"A6:H10\",\"rows\":5,\"cols\":8,\"values\":[[\"First Name\",\"Last Name\",\"Total Tithe Paid Across the Review Period\",\"Total Offering Paid Across the Review Period\",\"Number of Tithe Payments\",\"Tithe Consistency Rank\",\"Number of Offering Payments\",\"Offering Consistency Rank\"],[\"Hannah\",\"Ladele\",1500,235,2,18,13,17],[\"Tomilola\",\"Ezekiel\",2000,210,3,11,13,19],[\"Greatborn\",\"Uche\",3100,335,4,1,14,8],[\"Naomi\",\"Asake\",1500,495,4,7,15,3]]}"
+    }
+  ]
+}

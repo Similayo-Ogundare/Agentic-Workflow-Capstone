@@ -1,0 +1,406 @@
+{
+  "instructions_sha256": "24b31b46bbd14ee147a1b44b10e3ffb084d6b849c105a4491d5beab769212e2f",
+  "source_files": [
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April13.xlsx",
+      "sha256": "4e0ae3cf0170ac41f6f0bde7fba862122a4391213b78f3e629c5007a4044d8c0",
+      "matches_prior": true,
+      "date": "2025-04-13",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April20.xlsx",
+      "sha256": "5407b1524fe767bf7a5865266904a3645b702cff65ee282229b3470f4794ecd4",
+      "matches_prior": true,
+      "date": "2025-04-20",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April27.xlsx",
+      "sha256": "4d15debf56ecff21213e083a37abe4938c24b7b00fb497b795d7b1163ee5e306",
+      "matches_prior": true,
+      "date": "2025-04-27",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April6.xlsx",
+      "sha256": "933f7db6b54585a0cc0020b98d26f39df92bcd5e8a2ca1881801b4b65c236bd0",
+      "matches_prior": true,
+      "date": "2025-04-06",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb16.xlsx",
+      "sha256": "51074807f5083e54a6f9b52cc9e88f8bf772b3c58ced43180a4d56380a78cebf",
+      "matches_prior": true,
+      "date": "2025-02-16",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb2.xlsx",
+      "sha256": "fff3efe5b82e742f98e50104a49dce09d9daa073a8df4ab25353dd9691670ef1",
+      "matches_prior": true,
+      "date": "2025-02-02",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb23.xlsx",
+      "sha256": "3c1a219130a5d7997696e1269c2283d347c0ebf042cf7868c897cbb5e49a220a",
+      "matches_prior": true,
+      "date": "2025-02-23",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb9.xlsx",
+      "sha256": "e76eda4717e207ce1e775c181d4fe7b539e4a84b1f041baa926e6e3e67f86c47",
+      "matches_prior": true,
+      "date": "2025-02-09",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan12.xlsx",
+      "sha256": "f2e9654256a3cfce7f857e0ce0341de886bd2c5e6c35aa089368329df9fe64e2",
+      "matches_prior": true,
+      "date": "2025-01-12",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan19.xlsx",
+      "sha256": "ba52b86a57d28fe1c2b89548be93719bc0cbae7ec6aeb9b0673718289285d43c",
+      "matches_prior": true,
+      "date": "2025-01-19",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan26.xlsx",
+      "sha256": "bfecdd1e00afcf9a96467d91b6c5964ad05d8ea9e0f42516eecc090c8afa296f",
+      "matches_prior": true,
+      "date": "2025-01-26",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan5.xlsx",
+      "sha256": "ebd7db27fc04525f6994e00fbd50af61772b05637b9bb533533163895a13be8c",
+      "matches_prior": true,
+      "date": "2025-01-05",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar16.xlsx",
+      "sha256": "abf991f6c37a4f789abb04ba99d3210dc4d59f1292da9817a13db3db45ddcfbf",
+      "matches_prior": true,
+      "date": "2025-03-16",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar2.xlsx",
+      "sha256": "dc9b22089d35b63544634746b37342abe81061ea663a2187954c0898948ab2a0",
+      "matches_prior": true,
+      "date": "2025-03-02",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar23.xlsx",
+      "sha256": "b3e47f690bf257c5883930101a0cb4a25f0d3a7dbfb5cb4b31266125f6517de6",
+      "matches_prior": true,
+      "date": "2025-03-23",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar30.xlsx",
+      "sha256": "38bcabbebf4be8051a558b34c8662dac0e8c52cb728bda7d504d38162938a3ea",
+      "matches_prior": true,
+      "date": "2025-03-30",
+      "members": 19
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar9.xlsx",
+      "sha256": "45b7a22e83752f55c641370e49a774abacd2beead4fe5468dc5d6138c0e8d678",
+      "matches_prior": true,
+      "date": "2025-03-09",
+      "members": 19
+    }
+  ],
+  "source_totals": {
+    "tithe": 33970,
+    "offering": 6495,
+    "tithe_paid": 62,
+    "offering_paid": 261
+  },
+  "member_records": 323,
+  "source_fingerprints_unchanged": true,
+  "all_sundays_present": true,
+  "members": [
+    {
+      "name": "Hannah Ladele",
+      "row": 7,
+      "tithe": 1500,
+      "offering": 235,
+      "combined": 1735,
+      "tithe_rank": 18,
+      "offering_rank": 17,
+      "average": 17.5,
+      "overall_rank": 18,
+      "previous_overall_rank": 18
+    },
+    {
+      "name": "Tomilola Ezekiel",
+      "row": 8,
+      "tithe": 2000,
+      "offering": 210,
+      "combined": 2210,
+      "tithe_rank": 11,
+      "offering_rank": 19,
+      "average": 15.0,
+      "overall_rank": 15,
+      "previous_overall_rank": 15
+    },
+    {
+      "name": "Greatborn Uche",
+      "row": 9,
+      "tithe": 3100,
+      "offering": 335,
+      "combined": 3435,
+      "tithe_rank": 1,
+      "offering_rank": 8,
+      "average": 4.5,
+      "overall_rank": 1,
+      "previous_overall_rank": 1
+    },
+    {
+      "name": "Naomi Asake",
+      "row": 10,
+      "tithe": 1500,
+      "offering": 495,
+      "combined": 1995,
+      "tithe_rank": 7,
+      "offering_rank": 3,
+      "average": 5.0,
+      "overall_rank": 4,
+      "previous_overall_rank": 3
+    },
+    {
+      "name": "David Adekunle",
+      "row": 11,
+      "tithe": 2150,
+      "offering": 380,
+      "combined": 2530,
+      "tithe_rank": 9,
+      "offering_rank": 6,
+      "average": 7.5,
+      "overall_rank": 8,
+      "previous_overall_rank": 8
+    },
+    {
+      "name": "Ayomide Adeola",
+      "row": 12,
+      "tithe": 1020,
+      "offering": 235,
+      "combined": 1255,
+      "tithe_rank": 15,
+      "offering_rank": 18,
+      "average": 16.5,
+      "overall_rank": 17,
+      "previous_overall_rank": 17
+    },
+    {
+      "name": "Alaye Zainab",
+      "row": 13,
+      "tithe": 600,
+      "offering": 365,
+      "combined": 965,
+      "tithe_rank": 16,
+      "offering_rank": 10,
+      "average": 13.0,
+      "overall_rank": 14,
+      "previous_overall_rank": 14
+    },
+    {
+      "name": "Martins Gold",
+      "row": 14,
+      "tithe": 2900,
+      "offering": 445,
+      "combined": 3345,
+      "tithe_rank": 8,
+      "offering_rank": 1,
+      "average": 4.5,
+      "overall_rank": 2,
+      "previous_overall_rank": 1
+    },
+    {
+      "name": "Teniola Adigun",
+      "row": 15,
+      "tithe": 1300,
+      "offering": 470,
+      "combined": 1770,
+      "tithe_rank": 14,
+      "offering_rank": 5,
+      "average": 9.5,
+      "overall_rank": 11,
+      "previous_overall_rank": 11
+    },
+    {
+      "name": "Ojelade Tosin",
+      "row": 16,
+      "tithe": 1800,
+      "offering": 335,
+      "combined": 2135,
+      "tithe_rank": 12,
+      "offering_rank": 12,
+      "average": 12.0,
+      "overall_rank": 13,
+      "previous_overall_rank": 13
+    },
+    {
+      "name": "Samuel Ajanlekoko",
+      "row": 17,
+      "tithe": 1150,
+      "offering": 260,
+      "combined": 1410,
+      "tithe_rank": 19,
+      "offering_rank": 16,
+      "average": 17.5,
+      "overall_rank": 19,
+      "previous_overall_rank": 18
+    },
+    {
+      "name": "Obafemi Dolapo",
+      "row": 18,
+      "tithe": 2000,
+      "offering": 360,
+      "combined": 2360,
+      "tithe_rank": 5,
+      "offering_rank": 7,
+      "average": 6.0,
+      "overall_rank": 5,
+      "previous_overall_rank": 5
+    },
+    {
+      "name": "Aigbe Ajagbe",
+      "row": 19,
+      "tithe": 2050,
+      "offering": 320,
+      "combined": 2370,
+      "tithe_rank": 10,
+      "offering_rank": 13,
+      "average": 11.5,
+      "overall_rank": 12,
+      "previous_overall_rank": 12
+    },
+    {
+      "name": "Olorunfemi Isaac",
+      "row": 20,
+      "tithe": 1750,
+      "offering": 290,
+      "combined": 2040,
+      "tithe_rank": 6,
+      "offering_rank": 4,
+      "average": 5.0,
+      "overall_rank": 3,
+      "previous_overall_rank": 3
+    },
+    {
+      "name": "Solomon Joseph",
+      "row": 21,
+      "tithe": 600,
+      "offering": 290,
+      "combined": 890,
+      "tithe_rank": 17,
+      "offering_rank": 15,
+      "average": 16.0,
+      "overall_rank": 16,
+      "previous_overall_rank": 16
+    },
+    {
+      "name": "Adekoya Olanrewaju",
+      "row": 22,
+      "tithe": 2550,
+      "offering": 310,
+      "combined": 2860,
+      "tithe_rank": 2,
+      "offering_rank": 14,
+      "average": 8.0,
+      "overall_rank": 10,
+      "previous_overall_rank": 10
+    },
+    {
+      "name": "Mafeni Yakubu",
+      "row": 23,
+      "tithe": 2300,
+      "offering": 360,
+      "combined": 2660,
+      "tithe_rank": 3,
+      "offering_rank": 11,
+      "average": 7.0,
+      "overall_rank": 7,
+      "previous_overall_rank": 7
+    },
+    {
+      "name": "Lawal Lawal",
+      "row": 24,
+      "tithe": 2000,
+      "offering": 420,
+      "combined": 2420,
+      "tithe_rank": 4,
+      "offering_rank": 9,
+      "average": 6.5,
+      "overall_rank": 6,
+      "previous_overall_rank": 6
+    },
+    {
+      "name": "Babajide Oyadara",
+      "row": 25,
+      "tithe": 1700,
+      "offering": 380,
+      "combined": 2080,
+      "tithe_rank": 13,
+      "offering_rank": 2,
+      "average": 7.5,
+      "overall_rank": 9,
+      "previous_overall_rank": 8
+    }
+  ],
+  "existing_averages_category_ranks_amount_discrepancies": [],
+  "rank_changes": [
+    {
+      "name": "Naomi Asake",
+      "previous_rank": 3,
+      "new_rank": 4,
+      "average": 5.0,
+      "combined": 1995
+    },
+    {
+      "name": "Martins Gold",
+      "previous_rank": 1,
+      "new_rank": 2,
+      "average": 4.5,
+      "combined": 3345
+    },
+    {
+      "name": "Samuel Ajanlekoko",
+      "previous_rank": 18,
+      "new_rank": 19,
+      "average": 17.5,
+      "combined": 1410
+    },
+    {
+      "name": "Babajide Oyadara",
+      "previous_rank": 8,
+      "new_rank": 9,
+      "average": 7.5,
+      "combined": 2080
+    }
+  ],
+  "unresolved_ties": [],
+  "unique_overall_1_to_19": true,
+  "rank_rule": "Ascending average of category consistency ranks; for equal averages, descending combined tithe+offering total. Competition ranking only if both criteria are still equal.",
+  "baseline_path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\scratch\\independent_audit\\fourth_run_before_snapshot.json",
+  "output_workbook_inventory": [
+    "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\01a0fd6d-29f0-77d0-a614-50f2166da1bc\\Marvellous_Church_Q1_2025_Contributions.xlsx",
+    "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\April_Summary.xlsx",
+    "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\February_Summary.xlsx",
+    "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\Final_Summary.xlsx",
+    "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\January_Summary.xlsx",
+    "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\March_Summary.xlsx"
+  ]
+}

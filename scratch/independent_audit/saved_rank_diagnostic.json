@@ -1,0 +1,731 @@
+{
+  "instructions_sha256": "f0553dd5894d8a6275d912f51f9b434d989eccef50ec80461420abf6f22ba112",
+  "actual_final_path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\Final_Summary.xlsx",
+  "actual_final_sha256": "c1e8ae7f8945b7820ef6d09b96676016833793ba8b1dc4d2d188669dc37930c5",
+  "source_files": [
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\April 2025\\April13.xlsx",
+      "members": 19,
+      "sha256": "4e0ae3cf0170ac41f6f0bde7fba862122a4391213b78f3e629c5007a4044d8c0"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\April 2025\\April20.xlsx",
+      "members": 19,
+      "sha256": "5407b1524fe767bf7a5865266904a3645b702cff65ee282229b3470f4794ecd4"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\April 2025\\April27.xlsx",
+      "members": 19,
+      "sha256": "4d15debf56ecff21213e083a37abe4938c24b7b00fb497b795d7b1163ee5e306"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\April 2025\\April6.xlsx",
+      "members": 19,
+      "sha256": "933f7db6b54585a0cc0020b98d26f39df92bcd5e8a2ca1881801b4b65c236bd0"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\February 2025\\Feb16.xlsx",
+      "members": 19,
+      "sha256": "51074807f5083e54a6f9b52cc9e88f8bf772b3c58ced43180a4d56380a78cebf"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\February 2025\\Feb2.xlsx",
+      "members": 19,
+      "sha256": "fff3efe5b82e742f98e50104a49dce09d9daa073a8df4ab25353dd9691670ef1"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\February 2025\\Feb23.xlsx",
+      "members": 19,
+      "sha256": "3c1a219130a5d7997696e1269c2283d347c0ebf042cf7868c897cbb5e49a220a"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\February 2025\\Feb9.xlsx",
+      "members": 19,
+      "sha256": "e76eda4717e207ce1e775c181d4fe7b539e4a84b1f041baa926e6e3e67f86c47"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan12.xlsx",
+      "members": 19,
+      "sha256": "f2e9654256a3cfce7f857e0ce0341de886bd2c5e6c35aa089368329df9fe64e2"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan19.xlsx",
+      "members": 19,
+      "sha256": "ba52b86a57d28fe1c2b89548be93719bc0cbae7ec6aeb9b0673718289285d43c"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan26.xlsx",
+      "members": 19,
+      "sha256": "bfecdd1e00afcf9a96467d91b6c5964ad05d8ea9e0f42516eecc090c8afa296f"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan5.xlsx",
+      "members": 19,
+      "sha256": "ebd7db27fc04525f6994e00fbd50af61772b05637b9bb533533163895a13be8c"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\March 2025\\Mar16.xlsx",
+      "members": 19,
+      "sha256": "abf991f6c37a4f789abb04ba99d3210dc4d59f1292da9817a13db3db45ddcfbf"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\March 2025\\Mar2.xlsx",
+      "members": 19,
+      "sha256": "dc9b22089d35b63544634746b37342abe81061ea663a2187954c0898948ab2a0"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\March 2025\\Mar23.xlsx",
+      "members": 19,
+      "sha256": "b3e47f690bf257c5883930101a0cb4a25f0d3a7dbfb5cb4b31266125f6517de6"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\March 2025\\Mar30.xlsx",
+      "members": 19,
+      "sha256": "38bcabbebf4be8051a558b34c8662dac0e8c52cb728bda7d504d38162938a3ea"
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\Marvellous Church\\1st Quarter\\March 2025\\Mar9.xlsx",
+      "members": 19,
+      "sha256": "45b7a22e83752f55c641370e49a774abacd2beead4fe5468dc5d6138c0e8d678"
+    }
+  ],
+  "source_totals": {
+    "tithe": 33970,
+    "offering": 6495,
+    "tithe_paid": 62,
+    "offering_paid": 261,
+    "combined": 40465
+  },
+  "rank_headers": [
+    "First Name",
+    "Last Name",
+    "Total Tithe Paid Across the Review Period",
+    "Total Offering Paid Across the Review Period",
+    "Number of Tithe Payments",
+    "Tithe Consistency Rank",
+    "Number of Offering Payments",
+    "Offering Consistency Rank"
+  ],
+  "saved_explanation_A29": "Remaining ties use combined tithe plus offering total. Higher combined amounts rank higher.",
+  "actual_saved_members": [
+    {
+      "name": "Hannah Ladele",
+      "row": 7,
+      "tithe": 1500,
+      "offering": 235,
+      "tithe_paid": 2,
+      "offering_paid": 13,
+      "tithe_rank": 18,
+      "offering_rank": 17,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E7)+COUNTIFS($E$7:$E$25,E7,$C$7:$C$25,\">\"&C7)+COUNTIFS($E$7:$E$25,E7,$C$7:$C$25,C7,$D$7:$D$25,\">\"&D7)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G7)+COUNTIFS($G$7:$G$25,G7,$D$7:$D$25,\">\"&D7)+COUNTIFS($G$7:$G$25,G7,$D$7:$D$25,D7,$C$7:$C$25,\">\"&C7)",
+      "tithe_rank_A": 18,
+      "offering_rank_A": 17,
+      "tithe_rank_B": 18,
+      "offering_rank_B": 15,
+      "combined": 1735
+    },
+    {
+      "name": "Tomilola Ezekiel",
+      "row": 8,
+      "tithe": 2000,
+      "offering": 210,
+      "tithe_paid": 3,
+      "offering_paid": 13,
+      "tithe_rank": 11,
+      "offering_rank": 19,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E8)+COUNTIFS($E$7:$E$25,E8,$C$7:$C$25,\">\"&C8)+COUNTIFS($E$7:$E$25,E8,$C$7:$C$25,C8,$D$7:$D$25,\">\"&D8)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G8)+COUNTIFS($G$7:$G$25,G8,$D$7:$D$25,\">\"&D8)+COUNTIFS($G$7:$G$25,G8,$D$7:$D$25,D8,$C$7:$C$25,\">\"&C8)",
+      "tithe_rank_A": 11,
+      "offering_rank_A": 19,
+      "tithe_rank_B": 11,
+      "offering_rank_B": 13,
+      "combined": 2210
+    },
+    {
+      "name": "Greatborn Uche",
+      "row": 9,
+      "tithe": 3100,
+      "offering": 335,
+      "tithe_paid": 4,
+      "offering_paid": 14,
+      "tithe_rank": 1,
+      "offering_rank": 8,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E9)+COUNTIFS($E$7:$E$25,E9,$C$7:$C$25,\">\"&C9)+COUNTIFS($E$7:$E$25,E9,$C$7:$C$25,C9,$D$7:$D$25,\">\"&D9)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G9)+COUNTIFS($G$7:$G$25,G9,$D$7:$D$25,\">\"&D9)+COUNTIFS($G$7:$G$25,G9,$D$7:$D$25,D9,$C$7:$C$25,\">\"&C9)",
+      "tithe_rank_A": 1,
+      "offering_rank_A": 8,
+      "tithe_rank_B": 1,
+      "offering_rank_B": 5,
+      "combined": 3435
+    },
+    {
+      "name": "Naomi Asake",
+      "row": 10,
+      "tithe": 1500,
+      "offering": 495,
+      "tithe_paid": 4,
+      "offering_paid": 15,
+      "tithe_rank": 7,
+      "offering_rank": 3,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E10)+COUNTIFS($E$7:$E$25,E10,$C$7:$C$25,\">\"&C10)+COUNTIFS($E$7:$E$25,E10,$C$7:$C$25,C10,$D$7:$D$25,\">\"&D10)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G10)+COUNTIFS($G$7:$G$25,G10,$D$7:$D$25,\">\"&D10)+COUNTIFS($G$7:$G$25,G10,$D$7:$D$25,D10,$C$7:$C$25,\">\"&C10)",
+      "tithe_rank_A": 7,
+      "offering_rank_A": 3,
+      "tithe_rank_B": 7,
+      "offering_rank_B": 4,
+      "combined": 1995
+    },
+    {
+      "name": "David Adekunle",
+      "row": 11,
+      "tithe": 2150,
+      "offering": 380,
+      "tithe_paid": 3,
+      "offering_paid": 14,
+      "tithe_rank": 9,
+      "offering_rank": 6,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E11)+COUNTIFS($E$7:$E$25,E11,$C$7:$C$25,\">\"&C11)+COUNTIFS($E$7:$E$25,E11,$C$7:$C$25,C11,$D$7:$D$25,\">\"&D11)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G11)+COUNTIFS($G$7:$G$25,G11,$D$7:$D$25,\">\"&D11)+COUNTIFS($G$7:$G$25,G11,$D$7:$D$25,D11,$C$7:$C$25,\">\"&C11)",
+      "tithe_rank_A": 9,
+      "offering_rank_A": 6,
+      "tithe_rank_B": 9,
+      "offering_rank_B": 6,
+      "combined": 2530
+    },
+    {
+      "name": "Ayomide Adeola",
+      "row": 12,
+      "tithe": 1020,
+      "offering": 235,
+      "tithe_paid": 3,
+      "offering_paid": 13,
+      "tithe_rank": 15,
+      "offering_rank": 18,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E12)+COUNTIFS($E$7:$E$25,E12,$C$7:$C$25,\">\"&C12)+COUNTIFS($E$7:$E$25,E12,$C$7:$C$25,C12,$D$7:$D$25,\">\"&D12)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G12)+COUNTIFS($G$7:$G$25,G12,$D$7:$D$25,\">\"&D12)+COUNTIFS($G$7:$G$25,G12,$D$7:$D$25,D12,$C$7:$C$25,\">\"&C12)",
+      "tithe_rank_A": 15,
+      "offering_rank_A": 18,
+      "tithe_rank_B": 15,
+      "offering_rank_B": 17,
+      "combined": 1255
+    },
+    {
+      "name": "Alaye Zainab",
+      "row": 13,
+      "tithe": 600,
+      "offering": 365,
+      "tithe_paid": 3,
+      "offering_paid": 13,
+      "tithe_rank": 16,
+      "offering_rank": 10,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E13)+COUNTIFS($E$7:$E$25,E13,$C$7:$C$25,\">\"&C13)+COUNTIFS($E$7:$E$25,E13,$C$7:$C$25,C13,$D$7:$D$25,\">\"&D13)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G13)+COUNTIFS($G$7:$G$25,G13,$D$7:$D$25,\">\"&D13)+COUNTIFS($G$7:$G$25,G13,$D$7:$D$25,D13,$C$7:$C$25,\">\"&C13)",
+      "tithe_rank_A": 16,
+      "offering_rank_A": 10,
+      "tithe_rank_B": 16,
+      "offering_rank_B": 18,
+      "combined": 965
+    },
+    {
+      "name": "Martins Gold",
+      "row": 14,
+      "tithe": 2900,
+      "offering": 445,
+      "tithe_paid": 3,
+      "offering_paid": 16,
+      "tithe_rank": 8,
+      "offering_rank": 1,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E14)+COUNTIFS($E$7:$E$25,E14,$C$7:$C$25,\">\"&C14)+COUNTIFS($E$7:$E$25,E14,$C$7:$C$25,C14,$D$7:$D$25,\">\"&D14)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G14)+COUNTIFS($G$7:$G$25,G14,$D$7:$D$25,\">\"&D14)+COUNTIFS($G$7:$G$25,G14,$D$7:$D$25,D14,$C$7:$C$25,\">\"&C14)",
+      "tithe_rank_A": 8,
+      "offering_rank_A": 1,
+      "tithe_rank_B": 8,
+      "offering_rank_B": 1,
+      "combined": 3345
+    },
+    {
+      "name": "Teniola Adigun",
+      "row": 15,
+      "tithe": 1300,
+      "offering": 470,
+      "tithe_paid": 3,
+      "offering_paid": 14,
+      "tithe_rank": 14,
+      "offering_rank": 5,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E15)+COUNTIFS($E$7:$E$25,E15,$C$7:$C$25,\">\"&C15)+COUNTIFS($E$7:$E$25,E15,$C$7:$C$25,C15,$D$7:$D$25,\">\"&D15)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G15)+COUNTIFS($G$7:$G$25,G15,$D$7:$D$25,\">\"&D15)+COUNTIFS($G$7:$G$25,G15,$D$7:$D$25,D15,$C$7:$C$25,\">\"&C15)",
+      "tithe_rank_A": 14,
+      "offering_rank_A": 5,
+      "tithe_rank_B": 14,
+      "offering_rank_B": 8,
+      "combined": 1770
+    },
+    {
+      "name": "Ojelade Tosin",
+      "row": 16,
+      "tithe": 1800,
+      "offering": 335,
+      "tithe_paid": 3,
+      "offering_paid": 13,
+      "tithe_rank": 12,
+      "offering_rank": 12,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E16)+COUNTIFS($E$7:$E$25,E16,$C$7:$C$25,\">\"&C16)+COUNTIFS($E$7:$E$25,E16,$C$7:$C$25,C16,$D$7:$D$25,\">\"&D16)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G16)+COUNTIFS($G$7:$G$25,G16,$D$7:$D$25,\">\"&D16)+COUNTIFS($G$7:$G$25,G16,$D$7:$D$25,D16,$C$7:$C$25,\">\"&C16)",
+      "tithe_rank_A": 12,
+      "offering_rank_A": 12,
+      "tithe_rank_B": 12,
+      "offering_rank_B": 14,
+      "combined": 2135
+    },
+    {
+      "name": "Samuel Ajanlekoko",
+      "row": 17,
+      "tithe": 1150,
+      "offering": 260,
+      "tithe_paid": 2,
+      "offering_paid": 13,
+      "tithe_rank": 19,
+      "offering_rank": 16,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E17)+COUNTIFS($E$7:$E$25,E17,$C$7:$C$25,\">\"&C17)+COUNTIFS($E$7:$E$25,E17,$C$7:$C$25,C17,$D$7:$D$25,\">\"&D17)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G17)+COUNTIFS($G$7:$G$25,G17,$D$7:$D$25,\">\"&D17)+COUNTIFS($G$7:$G$25,G17,$D$7:$D$25,D17,$C$7:$C$25,\">\"&C17)",
+      "tithe_rank_A": 19,
+      "offering_rank_A": 16,
+      "tithe_rank_B": 19,
+      "offering_rank_B": 16,
+      "combined": 1410
+    },
+    {
+      "name": "Obafemi Dolapo",
+      "row": 18,
+      "tithe": 2000,
+      "offering": 360,
+      "tithe_paid": 4,
+      "offering_paid": 14,
+      "tithe_rank": 5,
+      "offering_rank": 7,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E18)+COUNTIFS($E$7:$E$25,E18,$C$7:$C$25,\">\"&C18)+COUNTIFS($E$7:$E$25,E18,$C$7:$C$25,C18,$D$7:$D$25,\">\"&D18)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G18)+COUNTIFS($G$7:$G$25,G18,$D$7:$D$25,\">\"&D18)+COUNTIFS($G$7:$G$25,G18,$D$7:$D$25,D18,$C$7:$C$25,\">\"&C18)",
+      "tithe_rank_A": 5,
+      "offering_rank_A": 7,
+      "tithe_rank_B": 5,
+      "offering_rank_B": 7,
+      "combined": 2360
+    },
+    {
+      "name": "Aigbe Ajagbe",
+      "row": 19,
+      "tithe": 2050,
+      "offering": 320,
+      "tithe_paid": 3,
+      "offering_paid": 13,
+      "tithe_rank": 10,
+      "offering_rank": 13,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E19)+COUNTIFS($E$7:$E$25,E19,$C$7:$C$25,\">\"&C19)+COUNTIFS($E$7:$E$25,E19,$C$7:$C$25,C19,$D$7:$D$25,\">\"&D19)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G19)+COUNTIFS($G$7:$G$25,G19,$D$7:$D$25,\">\"&D19)+COUNTIFS($G$7:$G$25,G19,$D$7:$D$25,D19,$C$7:$C$25,\">\"&C19)",
+      "tithe_rank_A": 10,
+      "offering_rank_A": 13,
+      "tithe_rank_B": 10,
+      "offering_rank_B": 12,
+      "combined": 2370
+    },
+    {
+      "name": "Olorunfemi Isaac",
+      "row": 20,
+      "tithe": 1750,
+      "offering": 290,
+      "tithe_paid": 4,
+      "offering_paid": 15,
+      "tithe_rank": 6,
+      "offering_rank": 4,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E20)+COUNTIFS($E$7:$E$25,E20,$C$7:$C$25,\">\"&C20)+COUNTIFS($E$7:$E$25,E20,$C$7:$C$25,C20,$D$7:$D$25,\">\"&D20)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G20)+COUNTIFS($G$7:$G$25,G20,$D$7:$D$25,\">\"&D20)+COUNTIFS($G$7:$G$25,G20,$D$7:$D$25,D20,$C$7:$C$25,\">\"&C20)",
+      "tithe_rank_A": 6,
+      "offering_rank_A": 4,
+      "tithe_rank_B": 6,
+      "offering_rank_B": 3,
+      "combined": 2040
+    },
+    {
+      "name": "Solomon Joseph",
+      "row": 21,
+      "tithe": 600,
+      "offering": 290,
+      "tithe_paid": 3,
+      "offering_paid": 13,
+      "tithe_rank": 17,
+      "offering_rank": 15,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E21)+COUNTIFS($E$7:$E$25,E21,$C$7:$C$25,\">\"&C21)+COUNTIFS($E$7:$E$25,E21,$C$7:$C$25,C21,$D$7:$D$25,\">\"&D21)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G21)+COUNTIFS($G$7:$G$25,G21,$D$7:$D$25,\">\"&D21)+COUNTIFS($G$7:$G$25,G21,$D$7:$D$25,D21,$C$7:$C$25,\">\"&C21)",
+      "tithe_rank_A": 17,
+      "offering_rank_A": 15,
+      "tithe_rank_B": 17,
+      "offering_rank_B": 19,
+      "combined": 890
+    },
+    {
+      "name": "Adekoya Olanrewaju",
+      "row": 22,
+      "tithe": 2550,
+      "offering": 310,
+      "tithe_paid": 4,
+      "offering_paid": 13,
+      "tithe_rank": 2,
+      "offering_rank": 14,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E22)+COUNTIFS($E$7:$E$25,E22,$C$7:$C$25,\">\"&C22)+COUNTIFS($E$7:$E$25,E22,$C$7:$C$25,C22,$D$7:$D$25,\">\"&D22)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G22)+COUNTIFS($G$7:$G$25,G22,$D$7:$D$25,\">\"&D22)+COUNTIFS($G$7:$G$25,G22,$D$7:$D$25,D22,$C$7:$C$25,\">\"&C22)",
+      "tithe_rank_A": 2,
+      "offering_rank_A": 14,
+      "tithe_rank_B": 2,
+      "offering_rank_B": 9,
+      "combined": 2860
+    },
+    {
+      "name": "Mafeni Yakubu",
+      "row": 23,
+      "tithe": 2300,
+      "offering": 360,
+      "tithe_paid": 4,
+      "offering_paid": 13,
+      "tithe_rank": 3,
+      "offering_rank": 11,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E23)+COUNTIFS($E$7:$E$25,E23,$C$7:$C$25,\">\"&C23)+COUNTIFS($E$7:$E$25,E23,$C$7:$C$25,C23,$D$7:$D$25,\">\"&D23)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G23)+COUNTIFS($G$7:$G$25,G23,$D$7:$D$25,\">\"&D23)+COUNTIFS($G$7:$G$25,G23,$D$7:$D$25,D23,$C$7:$C$25,\">\"&C23)",
+      "tithe_rank_A": 3,
+      "offering_rank_A": 11,
+      "tithe_rank_B": 3,
+      "offering_rank_B": 10,
+      "combined": 2660
+    },
+    {
+      "name": "Lawal Lawal",
+      "row": 24,
+      "tithe": 2000,
+      "offering": 420,
+      "tithe_paid": 4,
+      "offering_paid": 13,
+      "tithe_rank": 4,
+      "offering_rank": 9,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E24)+COUNTIFS($E$7:$E$25,E24,$C$7:$C$25,\">\"&C24)+COUNTIFS($E$7:$E$25,E24,$C$7:$C$25,C24,$D$7:$D$25,\">\"&D24)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G24)+COUNTIFS($G$7:$G$25,G24,$D$7:$D$25,\">\"&D24)+COUNTIFS($G$7:$G$25,G24,$D$7:$D$25,D24,$C$7:$C$25,\">\"&C24)",
+      "tithe_rank_A": 4,
+      "offering_rank_A": 9,
+      "tithe_rank_B": 4,
+      "offering_rank_B": 11,
+      "combined": 2420
+    },
+    {
+      "name": "Babajide Oyadara",
+      "row": 25,
+      "tithe": 1700,
+      "offering": 380,
+      "tithe_paid": 3,
+      "offering_paid": 16,
+      "tithe_rank": 13,
+      "offering_rank": 2,
+      "tithe_rank_formula": "=1+COUNTIF($E$7:$E$25,\">\"&E25)+COUNTIFS($E$7:$E$25,E25,$C$7:$C$25,\">\"&C25)+COUNTIFS($E$7:$E$25,E25,$C$7:$C$25,C25,$D$7:$D$25,\">\"&D25)",
+      "offering_rank_formula": "=1+COUNTIF($G$7:$G$25,\">\"&G25)+COUNTIFS($G$7:$G$25,G25,$D$7:$D$25,\">\"&D25)+COUNTIFS($G$7:$G$25,G25,$D$7:$D$25,D25,$C$7:$C$25,\">\"&C25)",
+      "tithe_rank_A": 13,
+      "offering_rank_A": 2,
+      "tithe_rank_B": 13,
+      "offering_rank_B": 2,
+      "combined": 2080
+    }
+  ],
+  "source_metric_mismatches": [],
+  "rank_checks": {
+    "tithe": {
+      "values": [
+        18,
+        11,
+        1,
+        7,
+        9,
+        15,
+        16,
+        8,
+        14,
+        12,
+        19,
+        5,
+        10,
+        6,
+        17,
+        2,
+        3,
+        4,
+        13
+      ],
+      "unique_1_to_19": true,
+      "mismatch_A": [],
+      "mismatch_B": []
+    },
+    "offering": {
+      "values": [
+        17,
+        19,
+        8,
+        3,
+        6,
+        18,
+        10,
+        1,
+        5,
+        12,
+        16,
+        7,
+        13,
+        4,
+        15,
+        14,
+        11,
+        9,
+        2
+      ],
+      "unique_1_to_19": true,
+      "mismatch_A": [],
+      "mismatch_B": [
+        "Hannah Ladele",
+        "Tomilola Ezekiel",
+        "Greatborn Uche",
+        "Naomi Asake",
+        "Ayomide Adeola",
+        "Alaye Zainab",
+        "Teniola Adigun",
+        "Ojelade Tosin",
+        "Aigbe Ajagbe",
+        "Olorunfemi Isaac",
+        "Solomon Joseph",
+        "Adekoya Olanrewaju",
+        "Mafeni Yakubu",
+        "Lawal Lawal"
+      ]
+    }
+  },
+  "ranking_differences": [
+    {
+      "name": "Hannah Ladele",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 235,
+      "combined": 1735,
+      "rank_A": 17,
+      "rank_B": 15,
+      "delta": -2
+    },
+    {
+      "name": "Tomilola Ezekiel",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 210,
+      "combined": 2210,
+      "rank_A": 19,
+      "rank_B": 13,
+      "delta": -6
+    },
+    {
+      "name": "Greatborn Uche",
+      "category": "offering",
+      "paid": 14,
+      "category_amount": 335,
+      "combined": 3435,
+      "rank_A": 8,
+      "rank_B": 5,
+      "delta": -3
+    },
+    {
+      "name": "Naomi Asake",
+      "category": "offering",
+      "paid": 15,
+      "category_amount": 495,
+      "combined": 1995,
+      "rank_A": 3,
+      "rank_B": 4,
+      "delta": 1
+    },
+    {
+      "name": "Ayomide Adeola",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 235,
+      "combined": 1255,
+      "rank_A": 18,
+      "rank_B": 17,
+      "delta": -1
+    },
+    {
+      "name": "Alaye Zainab",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 365,
+      "combined": 965,
+      "rank_A": 10,
+      "rank_B": 18,
+      "delta": 8
+    },
+    {
+      "name": "Teniola Adigun",
+      "category": "offering",
+      "paid": 14,
+      "category_amount": 470,
+      "combined": 1770,
+      "rank_A": 5,
+      "rank_B": 8,
+      "delta": 3
+    },
+    {
+      "name": "Ojelade Tosin",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 335,
+      "combined": 2135,
+      "rank_A": 12,
+      "rank_B": 14,
+      "delta": 2
+    },
+    {
+      "name": "Aigbe Ajagbe",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 320,
+      "combined": 2370,
+      "rank_A": 13,
+      "rank_B": 12,
+      "delta": -1
+    },
+    {
+      "name": "Olorunfemi Isaac",
+      "category": "offering",
+      "paid": 15,
+      "category_amount": 290,
+      "combined": 2040,
+      "rank_A": 4,
+      "rank_B": 3,
+      "delta": -1
+    },
+    {
+      "name": "Solomon Joseph",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 290,
+      "combined": 890,
+      "rank_A": 15,
+      "rank_B": 19,
+      "delta": 4
+    },
+    {
+      "name": "Adekoya Olanrewaju",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 310,
+      "combined": 2860,
+      "rank_A": 14,
+      "rank_B": 9,
+      "delta": -5
+    },
+    {
+      "name": "Mafeni Yakubu",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 360,
+      "combined": 2660,
+      "rank_A": 11,
+      "rank_B": 10,
+      "delta": -1
+    },
+    {
+      "name": "Lawal Lawal",
+      "category": "offering",
+      "paid": 13,
+      "category_amount": 420,
+      "combined": 2420,
+      "rank_A": 9,
+      "rank_B": 11,
+      "delta": 2
+    }
+  ],
+  "unresolved_ties": {
+    "A_category_then_combined": {
+      "tithe": [],
+      "offering": []
+    },
+    "B_combined": {
+      "tithe": [],
+      "offering": []
+    }
+  },
+  "output_paths": [
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\01a0fd6d-29f0-77d0-a614-50f2166da1bc\\Marvellous_Church_Q1_2025_Contributions.xlsx",
+      "sheets": [
+        "Summary",
+        "Q1 members",
+        "January",
+        "February",
+        "March",
+        "April",
+        "Contributions"
+      ],
+      "consistency_rank_headers": [],
+      "superseded_Q1": true
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\April_Summary.xlsx",
+      "sheets": [
+        "Summary",
+        "Source records"
+      ],
+      "consistency_rank_headers": [],
+      "superseded_Q1": false
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\February_Summary.xlsx",
+      "sheets": [
+        "Summary",
+        "Source records"
+      ],
+      "consistency_rank_headers": [],
+      "superseded_Q1": false
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\Final_Summary.xlsx",
+      "sheets": [
+        "Summary",
+        "Monthly totals"
+      ],
+      "consistency_rank_headers": [
+        {
+          "sheet": "Summary",
+          "label": "Tithe Consistency Rank"
+        },
+        {
+          "sheet": "Summary",
+          "label": "Offering Consistency Rank"
+        }
+      ],
+      "superseded_Q1": false
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\January_Summary.xlsx",
+      "sheets": [
+        "Summary",
+        "Source records"
+      ],
+      "consistency_rank_headers": [],
+      "superseded_Q1": false
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\March_Summary.xlsx",
+      "sheets": [
+        "Summary",
+        "Source records"
+      ],
+      "consistency_rank_headers": [],
+      "superseded_Q1": false
+    },
+    {
+      "path": "C:\\Users\\SIMILAYO OGUNDARE\\Desktop\\Mercor Academy Workspace\\outputs\\~$Final_Summary.xlsx",
+      "excel_lock_file": true
+    }
+  ]
+}

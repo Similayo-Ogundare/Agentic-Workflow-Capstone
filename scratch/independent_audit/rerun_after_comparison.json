@@ -1,0 +1,108 @@
+{
+  "workbooks": {
+    "January": {
+      "sha256_before": "e57743cd75a185ce0e9d79668d5c42738dc08bab9f79b503a52dc340b930e97b",
+      "sha256_after": "e4beed46af2ff4ce45fa2fb6eba4350ff24102c0055637d3296df0407cd39fb9",
+      "cell_changes": [],
+      "changed_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "relationship_id_only_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "issues": []
+    },
+    "February": {
+      "sha256_before": "c0ef8814ad6dca250b08b555a1eefee85d29a417b61f6910447b919ca2888d7a",
+      "sha256_after": "4f50771594ef5590854e6180d290bd5ae80101765641ae7bfa3fb07f013ef1c0",
+      "cell_changes": [],
+      "changed_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "relationship_id_only_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "issues": []
+    },
+    "March": {
+      "sha256_before": "0a85a79bb1206cd1f206e8558a8711cc6b19847b8a30cabb9228d6a772061067",
+      "sha256_after": "c451ff224da8474d9a1da151854e86fb2ec280ab7602d34990758b2875e64fbe",
+      "cell_changes": [],
+      "changed_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "relationship_id_only_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "issues": []
+    },
+    "April": {
+      "sha256_before": "3905545febff7e529846edbb49d59d3a6a19a230816ad0957a912308dbcd5885",
+      "sha256_after": "96dbffb7763ac508daf69ce60cfec76875e1c204fac8e69a99753712a2035ae9",
+      "cell_changes": [],
+      "changed_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "relationship_id_only_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "issues": []
+    },
+    "Final": {
+      "sha256_before": "ac70ea6ea88f8e41117ddb776d9e2cfa085337484fcc3d8e847d7c8019a9f0dc",
+      "sha256_after": "c1e8ae7f8945b7820ef6d09b96676016833793ba8b1dc4d2d188669dc37930c5",
+      "cell_changes": [],
+      "changed_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "relationship_id_only_parts": [
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "issues": []
+    }
+  },
+  "issues": [],
+  "source_hash_changes": [],
+  "require_semantic_unchanged": true,
+  "all_allowed_changes_only": true
+}

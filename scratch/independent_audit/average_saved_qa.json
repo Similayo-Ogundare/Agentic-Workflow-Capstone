@@ -1,0 +1,173 @@
+{
+  "pass": true,
+  "checks": 898,
+  "issues": [],
+  "monthly_workbooks": [
+    {
+      "month": "January",
+      "byte_identical": true
+    },
+    {
+      "month": "February",
+      "byte_identical": true
+    },
+    {
+      "month": "March",
+      "byte_identical": true
+    },
+    {
+      "month": "April",
+      "byte_identical": true
+    }
+  ],
+  "source_hash_changes": [],
+  "new_results": [
+    {
+      "name": "Hannah Ladele",
+      "average": 17.5,
+      "overall_rank": 18
+    },
+    {
+      "name": "Tomilola Ezekiel",
+      "average": 15,
+      "overall_rank": 15
+    },
+    {
+      "name": "Greatborn Uche",
+      "average": 4.5,
+      "overall_rank": 1
+    },
+    {
+      "name": "Naomi Asake",
+      "average": 5,
+      "overall_rank": 3
+    },
+    {
+      "name": "David Adekunle",
+      "average": 7.5,
+      "overall_rank": 8
+    },
+    {
+      "name": "Ayomide Adeola",
+      "average": 16.5,
+      "overall_rank": 17
+    },
+    {
+      "name": "Alaye Zainab",
+      "average": 13,
+      "overall_rank": 14
+    },
+    {
+      "name": "Martins Gold",
+      "average": 4.5,
+      "overall_rank": 1
+    },
+    {
+      "name": "Teniola Adigun",
+      "average": 9.5,
+      "overall_rank": 11
+    },
+    {
+      "name": "Ojelade Tosin",
+      "average": 12,
+      "overall_rank": 13
+    },
+    {
+      "name": "Samuel Ajanlekoko",
+      "average": 17.5,
+      "overall_rank": 18
+    },
+    {
+      "name": "Obafemi Dolapo",
+      "average": 6,
+      "overall_rank": 5
+    },
+    {
+      "name": "Aigbe Ajagbe",
+      "average": 11.5,
+      "overall_rank": 12
+    },
+    {
+      "name": "Olorunfemi Isaac",
+      "average": 5,
+      "overall_rank": 3
+    },
+    {
+      "name": "Solomon Joseph",
+      "average": 16,
+      "overall_rank": 16
+    },
+    {
+      "name": "Adekoya Olanrewaju",
+      "average": 8,
+      "overall_rank": 10
+    },
+    {
+      "name": "Mafeni Yakubu",
+      "average": 7,
+      "overall_rank": 7
+    },
+    {
+      "name": "Lawal Lawal",
+      "average": 6.5,
+      "overall_rank": 6
+    },
+    {
+      "name": "Babajide Oyadara",
+      "average": 7.5,
+      "overall_rank": 8
+    }
+  ],
+  "ties": [
+    {
+      "average": 4.5,
+      "overall_rank": 1,
+      "members": [
+        "Greatborn Uche",
+        "Martins Gold"
+      ]
+    },
+    {
+      "average": 5.0,
+      "overall_rank": 3,
+      "members": [
+        "Naomi Asake",
+        "Olorunfemi Isaac"
+      ]
+    },
+    {
+      "average": 7.5,
+      "overall_rank": 8,
+      "members": [
+        "David Adekunle",
+        "Babajide Oyadara"
+      ]
+    },
+    {
+      "average": 17.5,
+      "overall_rank": 18,
+      "members": [
+        "Hannah Ladele",
+        "Samuel Ajanlekoko"
+      ]
+    }
+  ],
+  "serialization_only_parts": [
+    "_rels/.rels",
+    "xl/_rels/workbook.xml.rels",
+    "xl/workbook.xml",
+    "xl/worksheets/_rels/sheet2.xml.rels",
+    "xl/worksheets/sheet2.xml"
+  ],
+  "authorized_native_additions": [
+    {
+      "part": "xl/styles.xml",
+      "type": "new style definitions appended; every existing style definition preserved"
+    },
+    {
+      "part": "xl/worksheets/sheet1.xml",
+      "type": "only styled I/J columns and A32 note appended; all existing cells, row/column dimensions and features preserved"
+    }
+  ],
+  "instruction_sha256": "29fb8ce395468f38f6e8a61fe3adcfacdb46986ead1be93a857709c15f327f0d"
+}

@@ -1,0 +1,120 @@
+{
+  "source_files": 17,
+  "source_hash_changes": [],
+  "source_inventory_matches_prior": true,
+  "roster_consistent": true,
+  "calendars_complete": true,
+  "checks": 847,
+  "output_discrepancies": [],
+  "output_snapshots": [
+    {
+      "file": "outputs\\January_Summary.xlsx",
+      "sha256": "4574016109950db6c74f9fc73b4f16be1320965dcfaf9172297a736ea020345f",
+      "members": 19,
+      "sheets": [
+        "Summary",
+        "Source records"
+      ]
+    },
+    {
+      "file": "outputs\\February_Summary.xlsx",
+      "sha256": "fa274cf3d4b57a202c3499d09cb0267e5c70e34f690b18eda0ab5ef597f03fd7",
+      "members": 19,
+      "sheets": [
+        "Summary",
+        "Source records"
+      ]
+    },
+    {
+      "file": "outputs\\March_Summary.xlsx",
+      "sha256": "02c99e66d18e0ae0b50d86a19a75c1885cd6c4ce36cdb923300bb3fa4a727cd2",
+      "members": 19,
+      "sheets": [
+        "Summary",
+        "Source records"
+      ]
+    },
+    {
+      "file": "outputs\\April_Summary.xlsx",
+      "sha256": "bd2e4bb93f160b63aaf89936f95faeb7cf4816a292c1c1a2e46fd6cd610e4864",
+      "members": 19,
+      "sheets": [
+        "Summary",
+        "Source records"
+      ]
+    },
+    {
+      "file": "outputs\\Final_Summary.xlsx",
+      "sha256": "6fb42ce2a3764a6d10938236bbe1b10d8f8a1a34cd1d9119cac583dcdcabc295",
+      "members": 19,
+      "sheets": [
+        "Summary",
+        "Monthly totals"
+      ]
+    }
+  ],
+  "final": {
+    "tithe": 33970,
+    "offering": 6495,
+    "tithe_paid": 62,
+    "offering_paid": 261
+  },
+  "monthly": {
+    "January 2025": {
+      "tithe": 9870,
+      "offering": 1520,
+      "tithe_paid": 19,
+      "offering_paid": 71
+    },
+    "February 2025": {
+      "tithe": 11700,
+      "offering": 1415,
+      "tithe_paid": 19,
+      "offering_paid": 58
+    },
+    "March 2025": {
+      "tithe": 5700,
+      "offering": 1955,
+      "tithe_paid": 11,
+      "offering_paid": 74
+    },
+    "April 2025": {
+      "tithe": 6700,
+      "offering": 1605,
+      "tithe_paid": 13,
+      "offering_paid": 58
+    }
+  },
+  "exact_ties": {
+    "tithe": [
+      {
+        "paid": 3,
+        "amount": 600,
+        "names": [
+          "Alaye Zainab",
+          "Solomon Joseph"
+        ]
+      },
+      {
+        "paid": 4,
+        "amount": 2000,
+        "names": [
+          "Obafemi Dolapo",
+          "Lawal Lawal"
+        ]
+      }
+    ],
+    "offering": [
+      {
+        "paid": 13,
+        "amount": 235,
+        "names": [
+          "Hannah Ladele",
+          "Ayomide Adeola"
+        ]
+      }
+    ]
+  },
+  "existing_output_tie_mode": "Shared competition ranks",
+  "note": "Output values match fresh source-derived amounts/counts and prior competition ranks when no discrepancies. No full baseline output hash exists to rule out non-data user changes."
+}

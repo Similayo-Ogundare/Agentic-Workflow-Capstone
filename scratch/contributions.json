@@ -1,0 +1,3070 @@
+{
+  "files": [
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "rows": 19,
+      "tithe": 9870,
+      "offering": 475
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 385
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 365
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 295
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "file": "Feb2.xlsx",
+      "rows": 19,
+      "tithe": 11700,
+      "offering": 475
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "file": "Feb9.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 215
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "file": "Feb16.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 445
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "file": "Feb23.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 280
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "file": "Mar2.xlsx",
+      "rows": 19,
+      "tithe": 5700,
+      "offering": 490
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "file": "Mar9.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 335
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "file": "Mar16.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 360
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "file": "Mar23.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 400
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "file": "Mar30.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 370
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "file": "April6.xlsx",
+      "rows": 19,
+      "tithe": 6700,
+      "offering": 410
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "file": "April13.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 585
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "file": "April20.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 260
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "file": "April27.xlsx",
+      "rows": 19,
+      "tithe": 0,
+      "offering": 350
+    }
+  ],
+  "records": [
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Hannah Ladele",
+      "tithe": 1000,
+      "offering": 10,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": 500,
+      "offering": 5,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Greatborn Uche",
+      "tithe": 700,
+      "offering": 5,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Naomi Asake",
+      "tithe": 300,
+      "offering": 20,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "David Adekunle",
+      "tithe": 450,
+      "offering": 35,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Ayomide Adeola",
+      "tithe": 620,
+      "offering": 25,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Alaye Zainab",
+      "tithe": 200,
+      "offering": 40,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Martins Gold",
+      "tithe": 900,
+      "offering": 50,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Teniola Adigun",
+      "tithe": 400,
+      "offering": 60,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Ojelade Tosin",
+      "tithe": 600,
+      "offering": 10,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": 250,
+      "offering": 5,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Obafemi Dolapo",
+      "tithe": 100,
+      "offering": 5,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": 850,
+      "offering": 20,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": 250,
+      "offering": 15,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Solomon Joseph",
+      "tithe": 300,
+      "offering": 20,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": 550,
+      "offering": 60,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Mafeni Yakubu",
+      "tithe": 700,
+      "offering": 30,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Lawal Lawal",
+      "tithe": 400,
+      "offering": 40,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-01-05",
+      "month": "2025-01-01",
+      "member": "Babajide Oyadara",
+      "tithe": 800,
+      "offering": 20,
+      "file": "Tithe_Offering_Jan5.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 5,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 5,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 60,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-01-12",
+      "month": "2025-01-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan12.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 5,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 35,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 45,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 5,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-01-19",
+      "month": "2025-01-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan19.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-01-26",
+      "month": "2025-01-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Tithe_Offering_Jan26.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Hannah Ladele",
+      "tithe": 500,
+      "offering": 10,
+      "file": "Feb2.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": 1000,
+      "offering": 20,
+      "file": "Feb2.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Greatborn Uche",
+      "tithe": 400,
+      "offering": 15,
+      "file": "Feb2.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Naomi Asake",
+      "tithe": 600,
+      "offering": 30,
+      "file": "Feb2.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "David Adekunle",
+      "tithe": 800,
+      "offering": 30,
+      "file": "Feb2.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Ayomide Adeola",
+      "tithe": 200,
+      "offering": 10,
+      "file": "Feb2.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Alaye Zainab",
+      "tithe": 100,
+      "offering": 15,
+      "file": "Feb2.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Martins Gold",
+      "tithe": 1000,
+      "offering": 10,
+      "file": "Feb2.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Teniola Adigun",
+      "tithe": 400,
+      "offering": 40,
+      "file": "Feb2.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Ojelade Tosin",
+      "tithe": 700,
+      "offering": 20,
+      "file": "Feb2.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": 900,
+      "offering": 10,
+      "file": "Feb2.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Obafemi Dolapo",
+      "tithe": 500,
+      "offering": 50,
+      "file": "Feb2.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": 300,
+      "offering": 15,
+      "file": "Feb2.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": 700,
+      "offering": 50,
+      "file": "Feb2.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Solomon Joseph",
+      "tithe": 200,
+      "offering": 10,
+      "file": "Feb2.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": 1000,
+      "offering": 20,
+      "file": "Feb2.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Mafeni Yakubu",
+      "tithe": 1000,
+      "offering": 30,
+      "file": "Feb2.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Lawal Lawal",
+      "tithe": 600,
+      "offering": 40,
+      "file": "Feb2.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-02-02",
+      "month": "2025-02-01",
+      "member": "Babajide Oyadara",
+      "tithe": 800,
+      "offering": 50,
+      "file": "Feb2.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb9.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb9.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb9.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Feb9.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb9.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Feb9.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb9.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb9.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-02-09",
+      "month": "2025-02-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb9.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb16.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb16.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb16.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb16.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb16.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Feb16.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 15,
+      "file": "Feb16.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Feb16.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 5,
+      "file": "Feb16.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb16.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb16.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Feb16.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb16.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb16.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 35,
+      "file": "Feb16.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Feb16.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Feb16.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb16.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-02-16",
+      "month": "2025-02-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb16.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb23.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb23.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb23.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Feb23.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb23.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb23.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb23.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Feb23.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Feb23.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb23.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb23.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb23.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb23.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Feb23.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Feb23.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb23.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb23.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Feb23.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-02-23",
+      "month": "2025-02-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Feb23.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Hannah Ladele",
+      "tithe": null,
+      "offering": 10,
+      "file": "Mar2.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": null,
+      "offering": 40,
+      "file": "Mar2.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Greatborn Uche",
+      "tithe": 1000,
+      "offering": 50,
+      "file": "Mar2.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Naomi Asake",
+      "tithe": 500,
+      "offering": 40,
+      "file": "Mar2.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "David Adekunle",
+      "tithe": null,
+      "offering": 10,
+      "file": "Mar2.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Ayomide Adeola",
+      "tithe": 200,
+      "offering": 10,
+      "file": "Mar2.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Alaye Zainab",
+      "tithe": 300,
+      "offering": 20,
+      "file": "Mar2.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Martins Gold",
+      "tithe": null,
+      "offering": 40,
+      "file": "Mar2.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Teniola Adigun",
+      "tithe": null,
+      "offering": 40,
+      "file": "Mar2.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Ojelade Tosin",
+      "tithe": 500,
+      "offering": 50,
+      "file": "Mar2.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": null,
+      "offering": 20,
+      "file": "Mar2.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Obafemi Dolapo",
+      "tithe": 700,
+      "offering": 20,
+      "file": "Mar2.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": 900,
+      "offering": 10,
+      "file": "Mar2.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": 600,
+      "offering": 10,
+      "file": "Mar2.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Solomon Joseph",
+      "tithe": null,
+      "offering": 20,
+      "file": "Mar2.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": 400,
+      "offering": 30,
+      "file": "Mar2.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Mafeni Yakubu",
+      "tithe": 100,
+      "offering": 40,
+      "file": "Mar2.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Lawal Lawal",
+      "tithe": 500,
+      "offering": 20,
+      "file": "Mar2.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-03-02",
+      "month": "2025-03-01",
+      "member": "Babajide Oyadara",
+      "tithe": null,
+      "offering": 10,
+      "file": "Mar2.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar9.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar9.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar9.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar9.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar9.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 25,
+      "file": "Mar9.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar9.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Mar9.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar9.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar9.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar9.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar9.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Mar9.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar9.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar9.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar9.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar9.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar9.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-03-09",
+      "month": "2025-03-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar9.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar16.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar16.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar16.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar16.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar16.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar16.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar16.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Mar16.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar16.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar16.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar16.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar16.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Mar16.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar16.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar16.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar16.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar16.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar16.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-03-16",
+      "month": "2025-03-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar16.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar23.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar23.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar23.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar23.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar23.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar23.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar23.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar23.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Mar23.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar23.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar23.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar23.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar23.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar23.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar23.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar23.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar23.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar23.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-03-23",
+      "month": "2025-03-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar23.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar30.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar30.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar30.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar30.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "Mar30.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar30.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar30.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar30.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar30.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "Mar30.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar30.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar30.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "Mar30.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar30.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "Mar30.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar30.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "Mar30.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar30.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-03-30",
+      "month": "2025-03-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "Mar30.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Hannah Ladele",
+      "tithe": null,
+      "offering": 20,
+      "file": "April6.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": 500,
+      "offering": 10,
+      "file": "April6.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Greatborn Uche",
+      "tithe": 1000,
+      "offering": 50,
+      "file": "April6.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Naomi Asake",
+      "tithe": 100,
+      "offering": 50,
+      "file": "April6.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "David Adekunle",
+      "tithe": 900,
+      "offering": 30,
+      "file": "April6.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Ayomide Adeola",
+      "tithe": null,
+      "offering": null,
+      "file": "April6.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Alaye Zainab",
+      "tithe": null,
+      "offering": 40,
+      "file": "April6.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Martins Gold",
+      "tithe": 1000,
+      "offering": 10,
+      "file": "April6.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Teniola Adigun",
+      "tithe": 500,
+      "offering": null,
+      "file": "April6.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Ojelade Tosin",
+      "tithe": null,
+      "offering": 40,
+      "file": "April6.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": null,
+      "offering": null,
+      "file": "April6.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Obafemi Dolapo",
+      "tithe": 700,
+      "offering": 50,
+      "file": "April6.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": null,
+      "offering": 50,
+      "file": "April6.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": 200,
+      "offering": 10,
+      "file": "April6.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Solomon Joseph",
+      "tithe": 100,
+      "offering": null,
+      "file": "April6.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": 600,
+      "offering": 10,
+      "file": "April6.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Mafeni Yakubu",
+      "tithe": 500,
+      "offering": null,
+      "file": "April6.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Lawal Lawal",
+      "tithe": 500,
+      "offering": 30,
+      "file": "April6.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-04-06",
+      "month": "2025-04-01",
+      "member": "Babajide Oyadara",
+      "tithe": 100,
+      "offering": 10,
+      "file": "April6.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "April13.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April13.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April13.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April13.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April13.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "April13.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "April13.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "April13.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "April13.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April13.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "April13.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April13.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April13.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "April13.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 5,
+      "file": "April13.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April13.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "April13.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April13.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-04-13",
+      "month": "2025-04-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "April13.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April20.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April20.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April20.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April20.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April20.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April20.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April20.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "April20.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "April20.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April20.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April20.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-04-20",
+      "month": "2025-04-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April20.xlsx",
+      "row": 20
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Hannah Ladele",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April27.xlsx",
+      "row": 2
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Tomilola Ezekiel",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April27.xlsx",
+      "row": 3
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Greatborn Uche",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April27.xlsx",
+      "row": 4
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Naomi Asake",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April27.xlsx",
+      "row": 5
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "David Adekunle",
+      "tithe": "N/A",
+      "offering": 30,
+      "file": "April27.xlsx",
+      "row": 6
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Ayomide Adeola",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April27.xlsx",
+      "row": 7
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Alaye Zainab",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April27.xlsx",
+      "row": 8
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Martins Gold",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "April27.xlsx",
+      "row": 9
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Teniola Adigun",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April27.xlsx",
+      "row": 10
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Ojelade Tosin",
+      "tithe": "N/A",
+      "offering": 20,
+      "file": "April27.xlsx",
+      "row": 11
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Samuel Ajanlekoko",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April27.xlsx",
+      "row": 12
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Obafemi Dolapo",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "April27.xlsx",
+      "row": 13
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Aigbe Ajagbe",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April27.xlsx",
+      "row": 14
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Olorunfemi Isaac",
+      "tithe": "N/A",
+      "offering": null,
+      "file": "April27.xlsx",
+      "row": 15
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Solomon Joseph",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "April27.xlsx",
+      "row": 16
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Adekoya Olanrewaju",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April27.xlsx",
+      "row": 17
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Mafeni Yakubu",
+      "tithe": "N/A",
+      "offering": 50,
+      "file": "April27.xlsx",
+      "row": 18
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Lawal Lawal",
+      "tithe": "N/A",
+      "offering": 40,
+      "file": "April27.xlsx",
+      "row": 19
+    },
+    {
+      "date": "2025-04-27",
+      "month": "2025-04-01",
+      "member": "Babajide Oyadara",
+      "tithe": "N/A",
+      "offering": 10,
+      "file": "April27.xlsx",
+      "row": 20
+    }
+  ],
+  "roster": [
+    "Hannah Ladele",
+    "Tomilola Ezekiel",
+    "Greatborn Uche",
+    "Naomi Asake",
+    "David Adekunle",
+    "Ayomide Adeola",
+    "Alaye Zainab",
+    "Martins Gold",
+    "Teniola Adigun",
+    "Ojelade Tosin",
+    "Samuel Ajanlekoko",
+    "Obafemi Dolapo",
+    "Aigbe Ajagbe",
+    "Olorunfemi Isaac",
+    "Solomon Joseph",
+    "Adekoya Olanrewaju",
+    "Mafeni Yakubu",
+    "Lawal Lawal",
+    "Babajide Oyadara"
+  ]
+}

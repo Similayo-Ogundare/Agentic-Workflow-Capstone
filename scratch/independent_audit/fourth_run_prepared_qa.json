@@ -1,0 +1,9 @@
+{
+  "pass": true,
+  "prepared_saved": true,
+  "checks": 114,
+  "differences": [],
+  "instruction_hash_matches": true,
+  "prepared_member_roster_matches": true,
+  "expected_unique_overall_1_to_19": true
+}

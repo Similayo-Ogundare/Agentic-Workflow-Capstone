@@ -1,0 +1,391 @@
+{
+  "rows": [
+    [
+      "Hannah",
+      "Ladele",
+      1500,
+      235,
+      2,
+      18,
+      13,
+      17
+    ],
+    [
+      "Tomilola",
+      "Ezekiel",
+      2000,
+      210,
+      3,
+      11,
+      13,
+      19
+    ],
+    [
+      "Greatborn",
+      "Uche",
+      3100,
+      335,
+      4,
+      1,
+      14,
+      8
+    ],
+    [
+      "Naomi",
+      "Asake",
+      1500,
+      495,
+      4,
+      7,
+      15,
+      3
+    ],
+    [
+      "David",
+      "Adekunle",
+      2150,
+      380,
+      3,
+      9,
+      14,
+      6
+    ],
+    [
+      "Ayomide",
+      "Adeola",
+      1020,
+      235,
+      3,
+      15,
+      13,
+      17
+    ],
+    [
+      "Alaye",
+      "Zainab",
+      600,
+      365,
+      3,
+      16,
+      13,
+      10
+    ],
+    [
+      "Martins",
+      "Gold",
+      2900,
+      445,
+      3,
+      8,
+      16,
+      1
+    ],
+    [
+      "Teniola",
+      "Adigun",
+      1300,
+      470,
+      3,
+      14,
+      14,
+      5
+    ],
+    [
+      "Ojelade",
+      "Tosin",
+      1800,
+      335,
+      3,
+      12,
+      13,
+      12
+    ],
+    [
+      "Samuel",
+      "Ajanlekoko",
+      1150,
+      260,
+      2,
+      19,
+      13,
+      16
+    ],
+    [
+      "Obafemi",
+      "Dolapo",
+      2000,
+      360,
+      4,
+      4,
+      14,
+      7
+    ],
+    [
+      "Aigbe",
+      "Ajagbe",
+      2050,
+      320,
+      3,
+      10,
+      13,
+      13
+    ],
+    [
+      "Olorunfemi",
+      "Isaac",
+      1750,
+      290,
+      4,
+      6,
+      15,
+      4
+    ],
+    [
+      "Solomon",
+      "Joseph",
+      600,
+      290,
+      3,
+      16,
+      13,
+      15
+    ],
+    [
+      "Adekoya",
+      "Olanrewaju",
+      2550,
+      310,
+      4,
+      2,
+      13,
+      14
+    ],
+    [
+      "Mafeni",
+      "Yakubu",
+      2300,
+      360,
+      4,
+      3,
+      13,
+      11
+    ],
+    [
+      "Lawal",
+      "Lawal",
+      2000,
+      420,
+      4,
+      4,
+      13,
+      9
+    ],
+    [
+      "Babajide",
+      "Oyadara",
+      1700,
+      380,
+      3,
+      13,
+      16,
+      2
+    ]
+  ],
+  "formulas": [
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A7,'Monthly totals'!$C$5:$C$80,$B7)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A7,'Monthly totals'!$C$5:$C$80,$B7)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A7,'Monthly totals'!$C$5:$C$80,$B7)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E7)+COUNTIFS($E$7:$E$25,E7,$C$7:$C$25,\">\"&C7)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A7,'Monthly totals'!$C$5:$C$80,$B7)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G7)+COUNTIFS($G$7:$G$25,G7,$D$7:$D$25,\">\"&D7)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A8,'Monthly totals'!$C$5:$C$80,$B8)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A8,'Monthly totals'!$C$5:$C$80,$B8)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A8,'Monthly totals'!$C$5:$C$80,$B8)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E8)+COUNTIFS($E$7:$E$25,E8,$C$7:$C$25,\">\"&C8)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A8,'Monthly totals'!$C$5:$C$80,$B8)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G8)+COUNTIFS($G$7:$G$25,G8,$D$7:$D$25,\">\"&D8)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A9,'Monthly totals'!$C$5:$C$80,$B9)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A9,'Monthly totals'!$C$5:$C$80,$B9)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A9,'Monthly totals'!$C$5:$C$80,$B9)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E9)+COUNTIFS($E$7:$E$25,E9,$C$7:$C$25,\">\"&C9)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A9,'Monthly totals'!$C$5:$C$80,$B9)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G9)+COUNTIFS($G$7:$G$25,G9,$D$7:$D$25,\">\"&D9)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A10,'Monthly totals'!$C$5:$C$80,$B10)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A10,'Monthly totals'!$C$5:$C$80,$B10)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A10,'Monthly totals'!$C$5:$C$80,$B10)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E10)+COUNTIFS($E$7:$E$25,E10,$C$7:$C$25,\">\"&C10)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A10,'Monthly totals'!$C$5:$C$80,$B10)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G10)+COUNTIFS($G$7:$G$25,G10,$D$7:$D$25,\">\"&D10)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A11,'Monthly totals'!$C$5:$C$80,$B11)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A11,'Monthly totals'!$C$5:$C$80,$B11)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A11,'Monthly totals'!$C$5:$C$80,$B11)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E11)+COUNTIFS($E$7:$E$25,E11,$C$7:$C$25,\">\"&C11)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A11,'Monthly totals'!$C$5:$C$80,$B11)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G11)+COUNTIFS($G$7:$G$25,G11,$D$7:$D$25,\">\"&D11)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A12,'Monthly totals'!$C$5:$C$80,$B12)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A12,'Monthly totals'!$C$5:$C$80,$B12)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A12,'Monthly totals'!$C$5:$C$80,$B12)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E12)+COUNTIFS($E$7:$E$25,E12,$C$7:$C$25,\">\"&C12)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A12,'Monthly totals'!$C$5:$C$80,$B12)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G12)+COUNTIFS($G$7:$G$25,G12,$D$7:$D$25,\">\"&D12)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A13,'Monthly totals'!$C$5:$C$80,$B13)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A13,'Monthly totals'!$C$5:$C$80,$B13)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A13,'Monthly totals'!$C$5:$C$80,$B13)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E13)+COUNTIFS($E$7:$E$25,E13,$C$7:$C$25,\">\"&C13)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A13,'Monthly totals'!$C$5:$C$80,$B13)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G13)+COUNTIFS($G$7:$G$25,G13,$D$7:$D$25,\">\"&D13)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A14,'Monthly totals'!$C$5:$C$80,$B14)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A14,'Monthly totals'!$C$5:$C$80,$B14)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A14,'Monthly totals'!$C$5:$C$80,$B14)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E14)+COUNTIFS($E$7:$E$25,E14,$C$7:$C$25,\">\"&C14)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A14,'Monthly totals'!$C$5:$C$80,$B14)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G14)+COUNTIFS($G$7:$G$25,G14,$D$7:$D$25,\">\"&D14)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A15,'Monthly totals'!$C$5:$C$80,$B15)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A15,'Monthly totals'!$C$5:$C$80,$B15)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A15,'Monthly totals'!$C$5:$C$80,$B15)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E15)+COUNTIFS($E$7:$E$25,E15,$C$7:$C$25,\">\"&C15)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A15,'Monthly totals'!$C$5:$C$80,$B15)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G15)+COUNTIFS($G$7:$G$25,G15,$D$7:$D$25,\">\"&D15)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A16,'Monthly totals'!$C$5:$C$80,$B16)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A16,'Monthly totals'!$C$5:$C$80,$B16)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A16,'Monthly totals'!$C$5:$C$80,$B16)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E16)+COUNTIFS($E$7:$E$25,E16,$C$7:$C$25,\">\"&C16)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A16,'Monthly totals'!$C$5:$C$80,$B16)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G16)+COUNTIFS($G$7:$G$25,G16,$D$7:$D$25,\">\"&D16)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A17,'Monthly totals'!$C$5:$C$80,$B17)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A17,'Monthly totals'!$C$5:$C$80,$B17)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A17,'Monthly totals'!$C$5:$C$80,$B17)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E17)+COUNTIFS($E$7:$E$25,E17,$C$7:$C$25,\">\"&C17)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A17,'Monthly totals'!$C$5:$C$80,$B17)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G17)+COUNTIFS($G$7:$G$25,G17,$D$7:$D$25,\">\"&D17)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A18,'Monthly totals'!$C$5:$C$80,$B18)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A18,'Monthly totals'!$C$5:$C$80,$B18)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A18,'Monthly totals'!$C$5:$C$80,$B18)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E18)+COUNTIFS($E$7:$E$25,E18,$C$7:$C$25,\">\"&C18)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A18,'Monthly totals'!$C$5:$C$80,$B18)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G18)+COUNTIFS($G$7:$G$25,G18,$D$7:$D$25,\">\"&D18)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A19,'Monthly totals'!$C$5:$C$80,$B19)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A19,'Monthly totals'!$C$5:$C$80,$B19)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A19,'Monthly totals'!$C$5:$C$80,$B19)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E19)+COUNTIFS($E$7:$E$25,E19,$C$7:$C$25,\">\"&C19)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A19,'Monthly totals'!$C$5:$C$80,$B19)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G19)+COUNTIFS($G$7:$G$25,G19,$D$7:$D$25,\">\"&D19)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A20,'Monthly totals'!$C$5:$C$80,$B20)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A20,'Monthly totals'!$C$5:$C$80,$B20)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A20,'Monthly totals'!$C$5:$C$80,$B20)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E20)+COUNTIFS($E$7:$E$25,E20,$C$7:$C$25,\">\"&C20)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A20,'Monthly totals'!$C$5:$C$80,$B20)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G20)+COUNTIFS($G$7:$G$25,G20,$D$7:$D$25,\">\"&D20)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A21,'Monthly totals'!$C$5:$C$80,$B21)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A21,'Monthly totals'!$C$5:$C$80,$B21)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A21,'Monthly totals'!$C$5:$C$80,$B21)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E21)+COUNTIFS($E$7:$E$25,E21,$C$7:$C$25,\">\"&C21)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A21,'Monthly totals'!$C$5:$C$80,$B21)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G21)+COUNTIFS($G$7:$G$25,G21,$D$7:$D$25,\">\"&D21)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A22,'Monthly totals'!$C$5:$C$80,$B22)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A22,'Monthly totals'!$C$5:$C$80,$B22)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A22,'Monthly totals'!$C$5:$C$80,$B22)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E22)+COUNTIFS($E$7:$E$25,E22,$C$7:$C$25,\">\"&C22)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A22,'Monthly totals'!$C$5:$C$80,$B22)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G22)+COUNTIFS($G$7:$G$25,G22,$D$7:$D$25,\">\"&D22)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A23,'Monthly totals'!$C$5:$C$80,$B23)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A23,'Monthly totals'!$C$5:$C$80,$B23)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A23,'Monthly totals'!$C$5:$C$80,$B23)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E23)+COUNTIFS($E$7:$E$25,E23,$C$7:$C$25,\">\"&C23)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A23,'Monthly totals'!$C$5:$C$80,$B23)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G23)+COUNTIFS($G$7:$G$25,G23,$D$7:$D$25,\">\"&D23)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A24,'Monthly totals'!$C$5:$C$80,$B24)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A24,'Monthly totals'!$C$5:$C$80,$B24)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A24,'Monthly totals'!$C$5:$C$80,$B24)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E24)+COUNTIFS($E$7:$E$25,E24,$C$7:$C$25,\">\"&C24)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A24,'Monthly totals'!$C$5:$C$80,$B24)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G24)+COUNTIFS($G$7:$G$25,G24,$D$7:$D$25,\">\"&D24)"
+    ],
+    [
+      "",
+      "",
+      "=SUMIFS('Monthly totals'!$D$5:$D$80,'Monthly totals'!$B$5:$B$80,$A25,'Monthly totals'!$C$5:$C$80,$B25)",
+      "=SUMIFS('Monthly totals'!$E$5:$E$80,'Monthly totals'!$B$5:$B$80,$A25,'Monthly totals'!$C$5:$C$80,$B25)",
+      "=SUMIFS('Monthly totals'!$F$5:$F$80,'Monthly totals'!$B$5:$B$80,$A25,'Monthly totals'!$C$5:$C$80,$B25)",
+      "=1+COUNTIF($E$7:$E$25,\">\"&E25)+COUNTIFS($E$7:$E$25,E25,$C$7:$C$25,\">\"&C25)",
+      "=SUMIFS('Monthly totals'!$G$5:$G$80,'Monthly totals'!$B$5:$B$80,$A25,'Monthly totals'!$C$5:$C$80,$B25)",
+      "=1+COUNTIF($G$7:$G$25,\">\"&G25)+COUNTIFS($G$7:$G$25,G25,$D$7:$D$25,\">\"&D25)"
+    ]
+  ],
+  "note": [
+    [
+      "Members tied on both count and amount share a rank; the following rank skips the tied positions."
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "checks": 464,
+  "instructionHash": "f0553dd5894d8a6275d912f51f9b434d989eccef50ec80461420abf6f22ba112",
+  "outputFiles": [
+    "January_Summary.xlsx",
+    "February_Summary.xlsx",
+    "March_Summary.xlsx",
+    "April_Summary.xlsx",
+    "Final_Summary.xlsx"
+  ],
+  "unchangedSpreadsheetInventory": true,
+  "allSourceFingerprintsUnchanged": true,
+  "numericRankChanges": [],
+  "rankRule": "count descending, corresponding amount descending, combined tithe plus offering descending"
+}

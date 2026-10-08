@@ -1,0 +1,501 @@
+{
+  "pass": true,
+  "checks": 899,
+  "issues": [],
+  "monthly_files": [
+    {
+      "month": "January",
+      "byte_identical": true
+    },
+    {
+      "month": "February",
+      "byte_identical": true
+    },
+    {
+      "month": "March",
+      "byte_identical": true
+    },
+    {
+      "month": "April",
+      "byte_identical": true
+    }
+  ],
+  "source_hash_changes": [],
+  "output_workbook_inventory_unchanged": true,
+  "unique_overall_1_to_19": true,
+  "cell_changes": [
+    {
+      "sheet": "Summary",
+      "cell": "J24",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I24)",
+        "cached_value": 6,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I24)+SUMPRODUCT(($I$7:$I$25=I24)*(($C$7:$C$25+$D$7:$D$25)>(C24+D24)))",
+        "cached_value": 6,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J8",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I8)",
+        "cached_value": 15,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I8)+SUMPRODUCT(($I$7:$I$25=I8)*(($C$7:$C$25+$D$7:$D$25)>(C8+D8)))",
+        "cached_value": 15,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J22",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I22)",
+        "cached_value": 10,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I22)+SUMPRODUCT(($I$7:$I$25=I22)*(($C$7:$C$25+$D$7:$D$25)>(C22+D22)))",
+        "cached_value": 10,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "A32",
+      "permitted": true,
+      "before": {
+        "value": "Average is the mean of the two consistency ranks. Lower averages rank higher; equal averages share an overall rank.",
+        "cached_value": "Average is the mean of the two consistency ranks. Lower averages rank higher; equal averages share an overall rank.",
+        "data_type": "s",
+        "style_id": 29,
+        "number_format": "General"
+      },
+      "after": {
+        "value": "Overall rank uses the lower average first, then the higher combined tithe and offering total for equal averages.",
+        "cached_value": "Overall rank uses the lower average first, then the higher combined tithe and offering total for equal averages.",
+        "data_type": "s",
+        "style_id": 29,
+        "number_format": "General"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J17",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I17)",
+        "cached_value": 18,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I17)+SUMPRODUCT(($I$7:$I$25=I17)*(($C$7:$C$25+$D$7:$D$25)>(C17+D17)))",
+        "cached_value": 19,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J11",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I11)",
+        "cached_value": 8,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I11)+SUMPRODUCT(($I$7:$I$25=I11)*(($C$7:$C$25+$D$7:$D$25)>(C11+D11)))",
+        "cached_value": 8,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J12",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I12)",
+        "cached_value": 17,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I12)+SUMPRODUCT(($I$7:$I$25=I12)*(($C$7:$C$25+$D$7:$D$25)>(C12+D12)))",
+        "cached_value": 17,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J10",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I10)",
+        "cached_value": 3,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I10)+SUMPRODUCT(($I$7:$I$25=I10)*(($C$7:$C$25+$D$7:$D$25)>(C10+D10)))",
+        "cached_value": 4,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J23",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I23)",
+        "cached_value": 7,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I23)+SUMPRODUCT(($I$7:$I$25=I23)*(($C$7:$C$25+$D$7:$D$25)>(C23+D23)))",
+        "cached_value": 7,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J20",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I20)",
+        "cached_value": 3,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I20)+SUMPRODUCT(($I$7:$I$25=I20)*(($C$7:$C$25+$D$7:$D$25)>(C20+D20)))",
+        "cached_value": 3,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J14",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I14)",
+        "cached_value": 1,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I14)+SUMPRODUCT(($I$7:$I$25=I14)*(($C$7:$C$25+$D$7:$D$25)>(C14+D14)))",
+        "cached_value": 2,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J25",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I25)",
+        "cached_value": 8,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I25)+SUMPRODUCT(($I$7:$I$25=I25)*(($C$7:$C$25+$D$7:$D$25)>(C25+D25)))",
+        "cached_value": 9,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J21",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I21)",
+        "cached_value": 16,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I21)+SUMPRODUCT(($I$7:$I$25=I21)*(($C$7:$C$25+$D$7:$D$25)>(C21+D21)))",
+        "cached_value": 16,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J16",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I16)",
+        "cached_value": 13,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I16)+SUMPRODUCT(($I$7:$I$25=I16)*(($C$7:$C$25+$D$7:$D$25)>(C16+D16)))",
+        "cached_value": 13,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J9",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I9)",
+        "cached_value": 1,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I9)+SUMPRODUCT(($I$7:$I$25=I9)*(($C$7:$C$25+$D$7:$D$25)>(C9+D9)))",
+        "cached_value": 1,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J7",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I7)",
+        "cached_value": 18,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I7)+SUMPRODUCT(($I$7:$I$25=I7)*(($C$7:$C$25+$D$7:$D$25)>(C7+D7)))",
+        "cached_value": 18,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J13",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I13)",
+        "cached_value": 14,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I13)+SUMPRODUCT(($I$7:$I$25=I13)*(($C$7:$C$25+$D$7:$D$25)>(C13+D13)))",
+        "cached_value": 14,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J15",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I15)",
+        "cached_value": 11,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I15)+SUMPRODUCT(($I$7:$I$25=I15)*(($C$7:$C$25+$D$7:$D$25)>(C15+D15)))",
+        "cached_value": 11,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J18",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I18)",
+        "cached_value": 5,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I18)+SUMPRODUCT(($I$7:$I$25=I18)*(($C$7:$C$25+$D$7:$D$25)>(C18+D18)))",
+        "cached_value": 5,
+        "data_type": "f",
+        "style_id": 56,
+        "number_format": "0"
+      }
+    },
+    {
+      "sheet": "Summary",
+      "cell": "J19",
+      "permitted": true,
+      "before": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I19)",
+        "cached_value": 12,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      },
+      "after": {
+        "value": "=1+COUNTIF($I$7:$I$25,\"<\"&I19)+SUMPRODUCT(($I$7:$I$25=I19)*(($C$7:$C$25+$D$7:$D$25)>(C19+D19)))",
+        "cached_value": 12,
+        "data_type": "f",
+        "style_id": 55,
+        "number_format": "0"
+      }
+    }
+  ],
+  "changed_parts": [
+    "_rels/.rels",
+    "xl/_rels/workbook.xml.rels",
+    "xl/workbook.xml",
+    "xl/worksheets/_rels/sheet2.xml.rels",
+    "xl/worksheets/sheet1.xml",
+    "xl/worksheets/sheet2.xml"
+  ],
+  "serialization_only_parts": [
+    "_rels/.rels",
+    "xl/_rels/workbook.xml.rels",
+    "xl/workbook.xml",
+    "xl/worksheets/_rels/sheet2.xml.rels",
+    "xl/worksheets/sheet2.xml"
+  ],
+  "saved_ranks": [
+    {
+      "name": "Hannah Ladele",
+      "overall_rank": 18
+    },
+    {
+      "name": "Tomilola Ezekiel",
+      "overall_rank": 15
+    },
+    {
+      "name": "Greatborn Uche",
+      "overall_rank": 1
+    },
+    {
+      "name": "Naomi Asake",
+      "overall_rank": 4
+    },
+    {
+      "name": "David Adekunle",
+      "overall_rank": 8
+    },
+    {
+      "name": "Ayomide Adeola",
+      "overall_rank": 17
+    },
+    {
+      "name": "Alaye Zainab",
+      "overall_rank": 14
+    },
+    {
+      "name": "Martins Gold",
+      "overall_rank": 2
+    },
+    {
+      "name": "Teniola Adigun",
+      "overall_rank": 11
+    },
+    {
+      "name": "Ojelade Tosin",
+      "overall_rank": 13
+    },
+    {
+      "name": "Samuel Ajanlekoko",
+      "overall_rank": 19
+    },
+    {
+      "name": "Obafemi Dolapo",
+      "overall_rank": 5
+    },
+    {
+      "name": "Aigbe Ajagbe",
+      "overall_rank": 12
+    },
+    {
+      "name": "Olorunfemi Isaac",
+      "overall_rank": 3
+    },
+    {
+      "name": "Solomon Joseph",
+      "overall_rank": 16
+    },
+    {
+      "name": "Adekoya Olanrewaju",
+      "overall_rank": 10
+    },
+    {
+      "name": "Mafeni Yakubu",
+      "overall_rank": 7
+    },
+    {
+      "name": "Lawal Lawal",
+      "overall_rank": 6
+    },
+    {
+      "name": "Babajide Oyadara",
+      "overall_rank": 9
+    }
+  ]
+}

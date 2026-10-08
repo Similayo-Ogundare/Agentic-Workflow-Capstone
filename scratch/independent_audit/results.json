@@ -1,0 +1,2198 @@
+{
+  "files": [
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April13.xlsx",
+      "date": "2025-04-13",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 19
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 585
+      },
+      "sha256": "4e0ae3cf0170ac41f6f0bde7fba862122a4391213b78f3e629c5007a4044d8c0"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April20.xlsx",
+      "date": "2025-04-20",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "blank": 8,
+          "positive": 11
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 260
+      },
+      "sha256": "5407b1524fe767bf7a5865266904a3645b702cff65ee282229b3470f4794ecd4"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April27.xlsx",
+      "date": "2025-04-27",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 14,
+          "blank": 5
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 350
+      },
+      "sha256": "4d15debf56ecff21213e083a37abe4938c24b7b00fb497b795d7b1163ee5e306"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\April 2025\\April6.xlsx",
+      "date": "2025-04-06",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "blank": 6,
+          "positive": 13
+        },
+        "offering": {
+          "positive": 14,
+          "blank": 5
+        }
+      },
+      "totals": {
+        "tithe": 6700,
+        "offering": 410
+      },
+      "sha256": "933f7db6b54585a0cc0020b98d26f39df92bcd5e8a2ca1881801b4b65c236bd0"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb16.xlsx",
+      "date": "2025-02-16",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 19
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 445
+      },
+      "sha256": "51074807f5083e54a6f9b52cc9e88f8bf772b3c58ced43180a4d56380a78cebf"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb2.xlsx",
+      "date": "2025-02-02",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "positive": 19
+        },
+        "offering": {
+          "positive": 19
+        }
+      },
+      "totals": {
+        "tithe": 11700,
+        "offering": 475
+      },
+      "sha256": "fff3efe5b82e742f98e50104a49dce09d9daa073a8df4ab25353dd9691670ef1"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb23.xlsx",
+      "date": "2025-02-23",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 12,
+          "blank": 7
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 280
+      },
+      "sha256": "3c1a219130a5d7997696e1269c2283d347c0ebf042cf7868c897cbb5e49a220a"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\February 2025\\Feb9.xlsx",
+      "date": "2025-02-09",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "blank": 11,
+          "positive": 8
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 215
+      },
+      "sha256": "e76eda4717e207ce1e775c181d4fe7b539e4a84b1f041baa926e6e3e67f86c47"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan12.xlsx",
+      "date": "2025-01-12",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 19
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 385
+      },
+      "sha256": "f2e9654256a3cfce7f857e0ce0341de886bd2c5e6c35aa089368329df9fe64e2"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan19.xlsx",
+      "date": "2025-01-19",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 19
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 365
+      },
+      "sha256": "ba52b86a57d28fe1c2b89548be93719bc0cbae7ec6aeb9b0673718289285d43c"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan26.xlsx",
+      "date": "2025-01-26",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 14,
+          "blank": 5
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 295
+      },
+      "sha256": "bfecdd1e00afcf9a96467d91b6c5964ad05d8ea9e0f42516eecc090c8afa296f"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\January 2025\\Tithe_Offering_Jan5.xlsx",
+      "date": "2025-01-05",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "positive": 19
+        },
+        "offering": {
+          "positive": 19
+        }
+      },
+      "totals": {
+        "tithe": 9870,
+        "offering": 475
+      },
+      "sha256": "ebd7db27fc04525f6994e00fbd50af61772b05637b9bb533533163895a13be8c"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar16.xlsx",
+      "date": "2025-03-16",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 13,
+          "blank": 6
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 360
+      },
+      "sha256": "abf991f6c37a4f789abb04ba99d3210dc4d59f1292da9817a13db3db45ddcfbf"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar2.xlsx",
+      "date": "2025-03-02",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "blank": 8,
+          "positive": 11
+        },
+        "offering": {
+          "positive": 19
+        }
+      },
+      "totals": {
+        "tithe": 5700,
+        "offering": 490
+      },
+      "sha256": "dc9b22089d35b63544634746b37342abe81061ea663a2187954c0898948ab2a0"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar23.xlsx",
+      "date": "2025-03-23",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "blank": 4,
+          "positive": 15
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 400
+      },
+      "sha256": "b3e47f690bf257c5883930101a0cb4a25f0d3a7dbfb5cb4b31266125f6517de6"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar30.xlsx",
+      "date": "2025-03-30",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "positive": 14,
+          "blank": 5
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 370
+      },
+      "sha256": "38bcabbebf4be8051a558b34c8662dac0e8c52cb728bda7d504d38162938a3ea"
+    },
+    {
+      "file": "Marvellous Church\\1st Quarter\\March 2025\\Mar9.xlsx",
+      "date": "2025-03-09",
+      "members": 19,
+      "cells": {
+        "tithe": {
+          "N/A": 19
+        },
+        "offering": {
+          "blank": 6,
+          "positive": 13
+        }
+      },
+      "totals": {
+        "tithe": 0,
+        "offering": 335
+      },
+      "sha256": "45b7a22e83752f55c641370e49a774abacd2beead4fe5468dc5d6138c0e8d678"
+    }
+  ],
+  "roster_consistent": true,
+  "roster": [
+    "Hannah Ladele",
+    "Tomilola Ezekiel",
+    "Greatborn Uche",
+    "Naomi Asake",
+    "David Adekunle",
+    "Ayomide Adeola",
+    "Alaye Zainab",
+    "Martins Gold",
+    "Teniola Adigun",
+    "Ojelade Tosin",
+    "Samuel Ajanlekoko",
+    "Obafemi Dolapo",
+    "Aigbe Ajagbe",
+    "Olorunfemi Isaac",
+    "Solomon Joseph",
+    "Adekoya Olanrewaju",
+    "Mafeni Yakubu",
+    "Lawal Lawal",
+    "Babajide Oyadara"
+  ],
+  "abnormalities": [],
+  "monthly": {
+    "January": {
+      "dates": [
+        "2025-01-05",
+        "2025-01-12",
+        "2025-01-19",
+        "2025-01-26"
+      ],
+      "expected_dates": [
+        "2025-01-05",
+        "2025-01-12",
+        "2025-01-19",
+        "2025-01-26"
+      ],
+      "complete": true,
+      "totals": {
+        "tithe": 9870,
+        "offering": 1520
+      },
+      "statuses": {
+        "tithe": {
+          "N/A": 57,
+          "positive": 19
+        },
+        "offering": {
+          "positive": 71,
+          "blank": 5
+        }
+      },
+      "members": [
+        {
+          "name": "Hannah Ladele",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 55,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1055
+        },
+        {
+          "name": "Tomilola Ezekiel",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 40,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 540
+        },
+        {
+          "name": "Greatborn Uche",
+          "tithe": {
+            "total": 700,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 40,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 740
+        },
+        {
+          "name": "Naomi Asake",
+          "tithe": {
+            "total": 300,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 85,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 385
+        },
+        {
+          "name": "David Adekunle",
+          "tithe": {
+            "total": 450,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 90,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 540
+        },
+        {
+          "name": "Ayomide Adeola",
+          "tithe": {
+            "total": 620,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 65,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 685
+        },
+        {
+          "name": "Alaye Zainab",
+          "tithe": {
+            "total": 200,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 115,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 315
+        },
+        {
+          "name": "Martins Gold",
+          "tithe": {
+            "total": 900,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 85,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 985
+        },
+        {
+          "name": "Teniola Adigun",
+          "tithe": {
+            "total": 400,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 165,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 565
+        },
+        {
+          "name": "Ojelade Tosin",
+          "tithe": {
+            "total": 600,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 65,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 665
+        },
+        {
+          "name": "Samuel Ajanlekoko",
+          "tithe": {
+            "total": 250,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 90,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 340
+        },
+        {
+          "name": "Obafemi Dolapo",
+          "tithe": {
+            "total": 100,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 30,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 130
+        },
+        {
+          "name": "Aigbe Ajagbe",
+          "tithe": {
+            "total": 850,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 65,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 915
+        },
+        {
+          "name": "Olorunfemi Isaac",
+          "tithe": {
+            "total": 250,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 310
+        },
+        {
+          "name": "Solomon Joseph",
+          "tithe": {
+            "total": 300,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 80,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 380
+        },
+        {
+          "name": "Adekoya Olanrewaju",
+          "tithe": {
+            "total": 550,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 130,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 680
+        },
+        {
+          "name": "Mafeni Yakubu",
+          "tithe": {
+            "total": 700,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 90,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 790
+        },
+        {
+          "name": "Lawal Lawal",
+          "tithe": {
+            "total": 400,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 110,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 510
+        },
+        {
+          "name": "Babajide Oyadara",
+          "tithe": {
+            "total": 800,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 860
+        }
+      ]
+    },
+    "February": {
+      "dates": [
+        "2025-02-02",
+        "2025-02-09",
+        "2025-02-16",
+        "2025-02-23"
+      ],
+      "expected_dates": [
+        "2025-02-02",
+        "2025-02-09",
+        "2025-02-16",
+        "2025-02-23"
+      ],
+      "complete": true,
+      "totals": {
+        "tithe": 11700,
+        "offering": 1415
+      },
+      "statuses": {
+        "tithe": {
+          "N/A": 57,
+          "positive": 19
+        },
+        "offering": {
+          "positive": 58,
+          "blank": 18
+        }
+      },
+      "members": [
+        {
+          "name": "Hannah Ladele",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 30,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 530
+        },
+        {
+          "name": "Tomilola Ezekiel",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 30,
+            "paid": 2,
+            "missed": 2,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1030
+        },
+        {
+          "name": "Greatborn Uche",
+          "tithe": {
+            "total": 400,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 55,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 455
+        },
+        {
+          "name": "Naomi Asake",
+          "tithe": {
+            "total": 600,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 110,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 710
+        },
+        {
+          "name": "David Adekunle",
+          "tithe": {
+            "total": 800,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 870
+        },
+        {
+          "name": "Ayomide Adeola",
+          "tithe": {
+            "total": 200,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 65,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 265
+        },
+        {
+          "name": "Alaye Zainab",
+          "tithe": {
+            "total": 100,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 50,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 150
+        },
+        {
+          "name": "Martins Gold",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 130,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1130
+        },
+        {
+          "name": "Teniola Adigun",
+          "tithe": {
+            "total": 400,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 85,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 485
+        },
+        {
+          "name": "Ojelade Tosin",
+          "tithe": {
+            "total": 700,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 760
+        },
+        {
+          "name": "Samuel Ajanlekoko",
+          "tithe": {
+            "total": 900,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 960
+        },
+        {
+          "name": "Obafemi Dolapo",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 110,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 610
+        },
+        {
+          "name": "Aigbe Ajagbe",
+          "tithe": {
+            "total": 300,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 25,
+            "paid": 2,
+            "missed": 2,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 325
+        },
+        {
+          "name": "Olorunfemi Isaac",
+          "tithe": {
+            "total": 700,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 100,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 800
+        },
+        {
+          "name": "Solomon Joseph",
+          "tithe": {
+            "total": 200,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 65,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 265
+        },
+        {
+          "name": "Adekoya Olanrewaju",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 2,
+            "missed": 2,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1070
+        },
+        {
+          "name": "Mafeni Yakubu",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 100,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1100
+        },
+        {
+          "name": "Lawal Lawal",
+          "tithe": {
+            "total": 600,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 2,
+            "missed": 2,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 660
+        },
+        {
+          "name": "Babajide Oyadara",
+          "tithe": {
+            "total": 800,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 140,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 940
+        }
+      ]
+    },
+    "March": {
+      "dates": [
+        "2025-03-02",
+        "2025-03-09",
+        "2025-03-16",
+        "2025-03-23",
+        "2025-03-30"
+      ],
+      "expected_dates": [
+        "2025-03-02",
+        "2025-03-09",
+        "2025-03-16",
+        "2025-03-23",
+        "2025-03-30"
+      ],
+      "complete": true,
+      "totals": {
+        "tithe": 5700,
+        "offering": 1955
+      },
+      "statuses": {
+        "tithe": {
+          "N/A": 76,
+          "blank": 8,
+          "positive": 11
+        },
+        "offering": {
+          "positive": 74,
+          "blank": 21
+        }
+      },
+      "members": [
+        {
+          "name": "Hannah Ladele",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 80,
+            "paid": 3,
+            "missed": 2,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 80
+        },
+        {
+          "name": "Tomilola Ezekiel",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 70
+        },
+        {
+          "name": "Greatborn Uche",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 160,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1160
+        },
+        {
+          "name": "Naomi Asake",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 150,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 650
+        },
+        {
+          "name": "David Adekunle",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 110,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 110
+        },
+        {
+          "name": "Ayomide Adeola",
+          "tithe": {
+            "total": 200,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 65,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 265
+        },
+        {
+          "name": "Alaye Zainab",
+          "tithe": {
+            "total": 300,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 3,
+            "missed": 2,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 370
+        },
+        {
+          "name": "Martins Gold",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 160,
+            "paid": 5,
+            "missed": 0,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 160
+        },
+        {
+          "name": "Teniola Adigun",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 160,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 160
+        },
+        {
+          "name": "Ojelade Tosin",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 140,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 640
+        },
+        {
+          "name": "Samuel Ajanlekoko",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 3,
+            "missed": 2,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 60
+        },
+        {
+          "name": "Obafemi Dolapo",
+          "tithe": {
+            "total": 700,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 80,
+            "paid": 3,
+            "missed": 2,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 780
+        },
+        {
+          "name": "Aigbe Ajagbe",
+          "tithe": {
+            "total": 900,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 80,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 980
+        },
+        {
+          "name": "Olorunfemi Isaac",
+          "tithe": {
+            "total": 600,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 660
+        },
+        {
+          "name": "Solomon Joseph",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 100,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 100
+        },
+        {
+          "name": "Adekoya Olanrewaju",
+          "tithe": {
+            "total": 400,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 470
+        },
+        {
+          "name": "Mafeni Yakubu",
+          "tithe": {
+            "total": 100,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 100,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 200
+        },
+        {
+          "name": "Lawal Lawal",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 130,
+            "paid": 5,
+            "missed": 0,
+            "opportunities": 5
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 630
+        },
+        {
+          "name": "Babajide Oyadara",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 110,
+            "paid": 4,
+            "missed": 1,
+            "opportunities": 5
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 110
+        }
+      ]
+    },
+    "April": {
+      "dates": [
+        "2025-04-06",
+        "2025-04-13",
+        "2025-04-20",
+        "2025-04-27"
+      ],
+      "expected_dates": [
+        "2025-04-06",
+        "2025-04-13",
+        "2025-04-20",
+        "2025-04-27"
+      ],
+      "complete": true,
+      "totals": {
+        "tithe": 6700,
+        "offering": 1605
+      },
+      "statuses": {
+        "tithe": {
+          "N/A": 57,
+          "blank": 6,
+          "positive": 13
+        },
+        "offering": {
+          "positive": 58,
+          "blank": 18
+        }
+      },
+      "members": [
+        {
+          "name": "Hannah Ladele",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 70
+        },
+        {
+          "name": "Tomilola Ezekiel",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 570
+        },
+        {
+          "name": "Greatborn Uche",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 80,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1080
+        },
+        {
+          "name": "Naomi Asake",
+          "tithe": {
+            "total": 100,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 150,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 250
+        },
+        {
+          "name": "David Adekunle",
+          "tithe": {
+            "total": 900,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 110,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1010
+        },
+        {
+          "name": "Ayomide Adeola",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 40,
+            "paid": 2,
+            "missed": 2,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 1,
+          "total": 40
+        },
+        {
+          "name": "Alaye Zainab",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 130,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 130
+        },
+        {
+          "name": "Martins Gold",
+          "tithe": {
+            "total": 1000,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 1070
+        },
+        {
+          "name": "Teniola Adigun",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 60,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 560
+        },
+        {
+          "name": "Ojelade Tosin",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 70
+        },
+        {
+          "name": "Samuel Ajanlekoko",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 50,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 1,
+          "total": 50
+        },
+        {
+          "name": "Obafemi Dolapo",
+          "tithe": {
+            "total": 700,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 140,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 840
+        },
+        {
+          "name": "Aigbe Ajagbe",
+          "tithe": {
+            "total": 0,
+            "paid": 0,
+            "missed": 1,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 150,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 150
+        },
+        {
+          "name": "Olorunfemi Isaac",
+          "tithe": {
+            "total": 200,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 270
+        },
+        {
+          "name": "Solomon Joseph",
+          "tithe": {
+            "total": 100,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 45,
+            "paid": 2,
+            "missed": 2,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 145
+        },
+        {
+          "name": "Adekoya Olanrewaju",
+          "tithe": {
+            "total": 600,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 40,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 640
+        },
+        {
+          "name": "Mafeni Yakubu",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 2,
+            "missed": 2,
+            "opportunities": 4
+          },
+          "both_paid": 0,
+          "both_missed_first_sunday": 0,
+          "total": 570
+        },
+        {
+          "name": "Lawal Lawal",
+          "tithe": {
+            "total": 500,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 120,
+            "paid": 3,
+            "missed": 1,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 620
+        },
+        {
+          "name": "Babajide Oyadara",
+          "tithe": {
+            "total": 100,
+            "paid": 1,
+            "missed": 0,
+            "opportunities": 1
+          },
+          "offering": {
+            "total": 70,
+            "paid": 4,
+            "missed": 0,
+            "opportunities": 4
+          },
+          "both_paid": 1,
+          "both_missed_first_sunday": 0,
+          "total": 170
+        }
+      ]
+    }
+  },
+  "quarter": {
+    "totals": {
+      "tithe": 27270,
+      "offering": 4890,
+      "combined": 32160
+    },
+    "statuses": {
+      "tithe": {
+        "N/A": 190,
+        "positive": 49,
+        "blank": 8
+      },
+      "offering": {
+        "positive": 203,
+        "blank": 44
+      }
+    },
+    "counts": {
+      "tithe": {
+        "paid": 49,
+        "missed": 8,
+        "opportunities": 57
+      },
+      "offering": {
+        "paid": 203,
+        "missed": 44,
+        "opportunities": 247
+      }
+    },
+    "members": [
+      {
+        "name": "Hannah Ladele",
+        "tithe": {
+          "total": 1500,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 165,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 1665
+      },
+      {
+        "name": "Tomilola Ezekiel",
+        "tithe": {
+          "total": 1500,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 140,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 1640
+      },
+      {
+        "name": "Greatborn Uche",
+        "tithe": {
+          "total": 2100,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 255,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 2355
+      },
+      {
+        "name": "Naomi Asake",
+        "tithe": {
+          "total": 1400,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 345,
+          "paid": 12,
+          "missed": 1,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 1745
+      },
+      {
+        "name": "David Adekunle",
+        "tithe": {
+          "total": 1250,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 270,
+          "paid": 11,
+          "missed": 2,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 1520
+      },
+      {
+        "name": "Ayomide Adeola",
+        "tithe": {
+          "total": 1020,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 195,
+          "paid": 11,
+          "missed": 2,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 1215
+      },
+      {
+        "name": "Alaye Zainab",
+        "tithe": {
+          "total": 600,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 235,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 835
+      },
+      {
+        "name": "Martins Gold",
+        "tithe": {
+          "total": 1900,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 375,
+          "paid": 12,
+          "missed": 1,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 2275
+      },
+      {
+        "name": "Teniola Adigun",
+        "tithe": {
+          "total": 800,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 410,
+          "paid": 11,
+          "missed": 2,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 1210
+      },
+      {
+        "name": "Ojelade Tosin",
+        "tithe": {
+          "total": 1800,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 265,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 2065
+      },
+      {
+        "name": "Samuel Ajanlekoko",
+        "tithe": {
+          "total": 1150,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 210,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 1360
+      },
+      {
+        "name": "Obafemi Dolapo",
+        "tithe": {
+          "total": 1300,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 220,
+          "paid": 11,
+          "missed": 2,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 1520
+      },
+      {
+        "name": "Aigbe Ajagbe",
+        "tithe": {
+          "total": 2050,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 170,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 2220
+      },
+      {
+        "name": "Olorunfemi Isaac",
+        "tithe": {
+          "total": 1550,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 220,
+          "paid": 12,
+          "missed": 1,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 1770
+      },
+      {
+        "name": "Solomon Joseph",
+        "tithe": {
+          "total": 500,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 245,
+          "paid": 11,
+          "missed": 2,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 745
+      },
+      {
+        "name": "Adekoya Olanrewaju",
+        "tithe": {
+          "total": 1950,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 270,
+          "paid": 9,
+          "missed": 4,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 2220
+      },
+      {
+        "name": "Mafeni Yakubu",
+        "tithe": {
+          "total": 1800,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 290,
+          "paid": 11,
+          "missed": 2,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 2090
+      },
+      {
+        "name": "Lawal Lawal",
+        "tithe": {
+          "total": 1500,
+          "paid": 3,
+          "missed": 0,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 300,
+          "paid": 10,
+          "missed": 3,
+          "opportunities": 13
+        },
+        "both_paid": 3,
+        "total": 1800
+      },
+      {
+        "name": "Babajide Oyadara",
+        "tithe": {
+          "total": 1600,
+          "paid": 2,
+          "missed": 1,
+          "opportunities": 3
+        },
+        "offering": {
+          "total": 310,
+          "paid": 12,
+          "missed": 1,
+          "opportunities": 13
+        },
+        "both_paid": 2,
+        "total": 1910
+      }
+    ]
+  }
+}
